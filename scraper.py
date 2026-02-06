@@ -1,13 +1,15 @@
 import feedparser
 import json
 import time
+import re
 from datetime import datetime
 import urllib.parse
+from collections import Counter
 
 # --- CONFIGURATION ---
 RSS_BASE = "https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q="
 
-# Your exact categories and queries
+# Your categories
 QUERIES = {
     'top_stories': '"online gambling" OR "online casino" OR "igaming news"',
     'all': 'iGaming OR "online casino" OR "sports betting" OR "gambling news"',
@@ -28,8 +30,13 @@ QUERIES = {
     'emerging': '"new igaming market" OR "latam betting" OR "asian gambling market" OR "african betting market" OR "igaming localization"'
 }
 
+def clean_html(raw_html):
+    # Google News descriptions contain HTML tags. We remove them.
+    cleanr = re.compile('<.*?>')
+    text = re.sub(cleanr, '', raw_html)
+    return text.replace("&nbsp;", " ").strip()
+
 def clean_title(title):
-    # Removes the " - Source Name" from the title
     if " - " in title:
         return title.rsplit(" - ", 1)[0]
     return title
@@ -38,6 +45,18 @@ def get_source(title):
     if " - " in title:
         return title.rsplit(" - ", 1)[1]
     return "News"
+
+def get_trending_keywords(all_titles):
+    # Join all titles, lowercase, remove common stop words
+    text = " ".join(all_titles).lower()
+    # Simple stop words list
+    stop_words = set(['the', 'a', 'in', 'to', 'of', 'and', 'for', 'on', 'with', 'at', 'is', 'it', 'new', 'best', 'online', 'casino', 'betting', 'gambling', 'games', 'game', 'how', 'play', 'guide', 'review', 'top', '2024', '2025', '2026', 'us', 'uk', 'vs', 'what', 'why', 'from', 'by', 'an', 'as'])
+    
+    words = re.findall(r'\b[a-z]{4,15}\b', text)
+    filtered_words = [w for w in words if w not in stop_words]
+    
+    # Get top 5 most common words
+    return [word for word, count in Counter(filtered_words).most_common(5)]
 
 def fetch_feed(category, query):
     encoded_query = urllib.parse.quote(query + " when:7d")
@@ -48,14 +67,20 @@ def fetch_feed(category, query):
     
     news_items = []
     
-    # Grab up to 20 items per category
     for entry in feed.entries[:20]:
+        # Intelligent Description Cleaning
+        desc = ""
+        if 'summary' in entry:
+            desc = clean_html(entry.summary)
+            # If description is too short or just repeats title, skip it
+            if len(desc) < 20 or desc.startswith("View full coverage"):
+                desc = ""
+
         item = {
             "title": clean_title(entry.title),
+            "desc": desc, # New Field
             "source": get_source(entry.title),
             "link": entry.link,
-            "pubDate": entry.published,
-            # We convert pubDate to a timestamp for easier sorting in JS
             "timestamp": time.mktime(entry.published_parsed) if entry.published_parsed else time.time()
         }
         news_items.append(item)
@@ -63,23 +88,34 @@ def fetch_feed(category, query):
     return news_items
 
 def main():
+    all_titles_for_trending = []
+    
     database = {
         "last_updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC"),
+        "trending_tags": [], # New Field
         "data": {}
     }
 
     for cat, query in QUERIES.items():
         try:
-            database["data"][cat] = fetch_feed(cat, query)
+            items = fetch_feed(cat, query)
+            database["data"][cat] = items
+            
+            # Collect titles for analysis
+            for item in items:
+                all_titles_for_trending.append(item['title'])
+                
         except Exception as e:
             print(f"Error fetching {cat}: {e}")
             database["data"][cat] = []
 
-    # Save to JSON file
+    # Calculate Trending Keywords from ALL collected news
+    database["trending_tags"] = get_trending_keywords(all_titles_for_trending)
+
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(database, f, indent=2)
     
-    print("Database updated successfully.")
+    print("Database updated with SEO descriptions.")
 
 if __name__ == "__main__":
     main()
