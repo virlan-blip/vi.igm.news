@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-04 21:00:52 UTC",
+  "last_updated": "2026-03-04 22:02:37 UTC",
   "trending_tags": [
     "march",
     "casinos",
-    "match",
     "sports",
-    "prediction"
+    "match",
+    "promo"
   ],
   "data": {
     "top_stories": [
@@ -29,6 +29,13 @@
         "source": "USA Today",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS0Z1aWhPb0M3U2pBWHZmVFgycHJtSklKX2hwU0RramZtaGExZG5QdnEyeGRkRHdXdlBRblF0c08xeFZfdjdVYXNYU0EyM2ZjUFdZRlViVjV1Zk9PXzVPd0h5V0FrWDU5dHVDREFDZVdYLW1ITVR2aWpIbnA4NkNwdy1IRmFvLXVZSXlVaEF2cWx0TWNJdVJXWg?oc=5",
         "timestamp": 1772290260.0
+      },
+      {
+        "title": "Ohio casinos and online gambling in 2026",
+        "desc": "Ohio casinos and online gambling in 2026  Cincinnati Enquirer",
+        "source": "Cincinnati Enquirer",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3RXOVpGUGlPNi0xeXhCSkZJRWI4LWpKMy1GUzJQejRrTlV0cEU5R3ZxWW8yT0dPRnRSaTVmLWwtQ1BFSzVHMHdjZkwxU19YQXU2SnVPLWhtV3c3OG5kMFUxa3NSaUN3bWY4dmNjSXBHclVRSDZTb08xZExpZ0pQaFNIU19XR2d3SFNv?oc=5",
+        "timestamp": 1772465040.0
       },
       {
         "title": "Lawmakers weigh bringing online casino gaming to Maryland",
@@ -59,13 +66,6 @@
         "timestamp": 1772590884.0
       },
       {
-        "title": "Arizona gets D grade in an online gambling safety report card",
-        "desc": "Arizona gets D grade in an online gambling safety report card  KJZZ",
-        "source": "KJZZ",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2ZQUzljSWdnZmRMdGpRMWotTFh6S1lQVml1OUs5d0ZCM085ak1LNU90cVJZWHU3VGRzM2xCaTlSWWUtczAwaExvS0VhcEZYUzd4LWhyWlIweFNwem1kUnUwdGRjWUdkVzJUbHBDTWFzWkd4ODRaaERPeTFqczBGM0tKVTU2VWtFN3lVVTEwSWNrdThNX281SDBtQ2JJbGU2anNQZmpR?oc=5",
-        "timestamp": 1772632800.0
-      },
-      {
         "title": "Maryland Lawmakers Weigh Legalizing Online Casino Gaming",
         "desc": "Maryland Lawmakers Weigh Legalizing Online Casino Gaming  Gaming America",
         "source": "Gaming America",
@@ -87,11 +87,25 @@
         "timestamp": 1772494666.0
       },
       {
+        "title": "Ohio\u2019s online gambling and consumer protections aren\u2019t paying off, study finds",
+        "desc": "Ohio\u2019s online gambling and consumer protections aren\u2019t paying off, study finds  Cleveland.com",
+        "source": "Cleveland.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOVV5WUtIeWtIVk1jSEU3RjBoYks3R2R0UFRqd3R0ZzA5VWItMjlmX3VXeHY1bU43V0FFdzhNejBoX1ZMWERiSFVVY3lrZ3JfMDk5ZG9DcXZxS0tPZUl6RDR0c2RuYmRJRkJoWlQ1MHB4SmRDN2t3SFBCZklqbXpWOUxmbWVkdmRycW1zaWNWcDNMOWRXc2c2dUNUcGFwTXQ0Q0pWeDd5NnpyM3RuUXhrUVF5N19TVTBvTU1J0gHPAUFVX3lxTE9xempZQ2k2RzNVd2E3Slh2aXFieGhiUW5rckxCcWZxWENfNzFkU0lNTTRvNW5LVTB2NUNWWXViZUJ0Wk5EeEd5Q2pkOW40bDlpc0RlWm9MY0pLSVZGZVhwMHN0NzIwOWtmUWpRUk50ZVZWaWY1Z2NvdzAycW1pQ3ZlS05HblhIaXNqZTV4Q2pwb1BWeUZ0VnV6QlNDV3MtNkRzelNKRV9lX3Rtek41eXM3UElvNUJkZkNrTGJ6aldyREI3eGtfQTBkZElaTkZ5MA?oc=5",
+        "timestamp": 1772658240.0
+      },
+      {
         "title": "How A Non-Profit Focused On Addiction Ranked All 50 States On Online Gambling",
         "desc": "How A Non-Profit Focused On Addiction Ranked All 50 States On Online Gambling  The Closing Line | Dustin Gouker",
         "source": "The Closing Line | Dustin Gouker",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVpHbTRhM3RjSE91VUp3MXdSVXc4cjlNMXQ0djRPRWdfaGZnLTNUWnVqM0QwTFoyQVJJY1NkODZQQUtSU3V4QXU3N3hEbV9hY3ItQjgyVWQ4ZjluVlg5dUhhME1OQkphR3pVUzZIQUtGb2QxR0k2MWIxMHU?oc=5",
         "timestamp": 1772634234.0
+      },
+      {
+        "title": "Arizona gets D grade in an online gambling safety report card",
+        "desc": "Arizona gets D grade in an online gambling safety report card  KJZZ",
+        "source": "KJZZ",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2ZQUzljSWdnZmRMdGpRMWotTFh6S1lQVml1OUs5d0ZCM085ak1LNU90cVJZWHU3VGRzM2xCaTlSWWUtczAwaExvS0VhcEZYUzd4LWhyWlIweFNwem1kUnUwdGRjWUdkVzJUbHBDTWFzWkd4ODRaaERPeTFqczBGM0tKVTU2VWtFN3lVVTEwSWNrdThNX281SDBtQ2JJbGU2anNQZmpR?oc=5",
+        "timestamp": 1772632800.0
       },
       {
         "title": "Explore This Week\u2019s New Slot Titles at Hard Rock Bet Online Casino",
@@ -134,20 +148,6 @@
         "source": "CDC Gaming",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcElDR25vYTl5ZkdHOHJuVm14VjJWR1ZMSHJ6aGk0dElRdl95Rzh5VGVXWng4NlhPRmpXVUYxd3g1MU1UM1dUVlRZazVJeHJmT1EyV0x4UmN3SDdCTkNzVk5lYmxESHZETmVsUFZIamxVNm9Zb3JGRTUzanQ0bjB2T3dNVFI2UHJleXM4ZU1n?oc=5",
         "timestamp": 1772566803.0
-      },
-      {
-        "title": "Online gambling could be the next opioid crisis for D&O insurers, Zurich's Hattauer says",
-        "desc": "Online gambling could be the next opioid crisis for D&amp;O insurers, Zurich's Hattauer says  theinsurer.com",
-        "source": "theinsurer.com",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNczZrZVE3OW5pRDZaVXp5WEh3MHhabU9MWmtwbjdGWWZmZWRWNENWUUd1RjYzWUdySy1QcThXRFJwRl8zcHBQNHF3ZUN3OUdLV04xaWhCZ2d1c3RITmIwZmVKZ2JxYktsVTdSbDdCTWhGc1lxNTNlRGVRQUkyZ1pCVktzX2labTZWX1ZwaUdKUkQxV0FsazBBSDRYanJKaE9tc2FaTjEwTTI2NTJBci14ZERjMkxPVDVqbnZORG1aNHV2TldNbHc?oc=5",
-        "timestamp": 1772573362.0
-      },
-      {
-        "title": "Innovations Driving Online Casino Development in the 21st Century",
-        "desc": "Innovations Driving Online Casino Development in the 21st Century  cuindependent.com",
-        "source": "cuindependent.com",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRndSckdBUU1yOFZtRl9EbFVwaGotWWw0QklUSHBSQlJBTVZRSHpYdlR5T2xyWTE5VmhXeXlyMkJTTGtiVzlnZVhfaWdBWk1QUjlCZVVEZE1vSW42N1FXQjRSUmtRbUZJUUFsYWM2b2NMWTZqMnVHZUVJbWhBbWcwS01EQW8ydWZWazNiaTVDa1JLNUg4eEJ6UkpPY3M?oc=5",
-        "timestamp": 1772619181.0
       }
     ],
     "all": [
@@ -211,7 +211,7 @@
         "title": "DraftKings Is Using Its Sports-Betting Playbook to Win Prediction Markets Race",
         "desc": "DraftKings Is Using Its Sports-Betting Playbook to Win Prediction Markets Race  WSJ",
         "source": "WSJ",
-        "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxOS0dHMk9SWG0zbFpIcjdaZG1WSnE4NHlFVmthRHJWYi04MFQ1bHJJRm1ORlNXTWpZQ1ZfR3p6cEdERkVvMjhXN0FkTHlGdFhuYXRMMWUxeXJDNGNNeGgtN3BrVDQ3QzI2QlJac24yaHFPZ3l0QW9vZXNNOFVOTHBpLUpVcFEwSG1aMVNnYkk2Q3Z2RFUwWnpCTVo2bE5RVnhOUXZGcVdpRzljanZUVWZKbmI5cHBabzNXcV9vRDFQN0p0RmtoVlBja1RWbXE3ZTFzLUItYUlXX2ExMmxKM0VhbU1TN2t3V08zTmU0aHFzZE5JSllFN1JjNmx6RDhEQTh4NFNyQWtTbWQxak50TmhlVWN0VW9oZXFQZzFJdWxRTVhTclFFRUhCMjdOand1dkFBZEdid2pMU3RHblQ2N3hIRVcwMDB4R2ZVTzRhcTRCNUhrNXhmWEZOa2hDNklCdG9HR0tJU2ZQN21mRG5HX0k2Z21adWxSUG1uMC1XcWkzUzdwRFNVcW9KM2wtUjltYjdnOWlTSGtidFVrX3hpaUdpbGkxYndBUVU4UUxmYUZyVjJDMUhMYi1XRDNUSGFvd2Roc3RSWg?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxORW9Na0ozR2xqTzFvM1Fyd2ZDNHBQbHlrTzVEN3A4a1lRVGtaTVdSbHJBb2ZUWmktall1WUpIUHdtTHo4ZnlLRUYyejhFWVdXSHFxLVNpZjVuZUlTU3dCR21OLWdKaXRacFRnTGdsTlFvSnBIQjNMYXlmWUFnTUsyLUNVU2UzSGZjOWlveTFZR3hyVnBVRER2a1hKZGVYd1RYalE0UUxHMEdVME9lcEwyNDZIdGU4akZmS1pHTE1EOFpQMGNiWG1Ta1BHaHZSQ0ZDZFNXTE5ybEhrNXB4Nm1SbC03Sk1aRDl6RUhuaUM2ZVZXWkRTY195VXd2aU1yRk00WTFfbGZ3TkJmQXlsTE1IUXNqQjliNDhYc1FZc3hYQTE4N3ZNaHc1LUU4aE41NVdxQ0dPYXJiYjF3dkw0R1pHOTVXdHplMXJ2WFo4M3ZGdFZkMFdlMEdlVEJTYzBTem1lbm1pdUVDX2dYSmJlXzZzUWN1UnU2UmJpLVpjZWs4bTFlRVFrQzZtZ1Z1UG9OU1FrUGxETUN5MGFRNmhpQXI3bGhlMklNNkR4b1JGSkpDODU2YXp0Q1l6OXZUd3lnYnV0a25pcw?oc=5",
         "timestamp": 1772588340.0
       },
       {
@@ -243,11 +243,11 @@
         "timestamp": 1772182800.0
       },
       {
-        "title": "Florida Sports Betting: Legal Sportsbooks and Best DFS Sites",
-        "desc": "Florida Sports Betting: Legal Sportsbooks and Best DFS Sites  FOX Sports",
+        "title": "Massachusetts Sports Betting: MA Sportsbook Promos & Apps",
+        "desc": "Massachusetts Sports Betting: MA Sportsbook Promos & Apps  FOX Sports",
         "source": "FOX Sports",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zN2o2RTJFS1h5VE5WUjZfLXgxdlpfWGxyMEZtV0I0Y2pTZmxyX0NqMmVWM3pZZHVnZkFtcFNYSlFSNkRpX2drNEppY2xDZ0pRUjZXTGJmSTF4a2tvei1ycXBMMGxqX09rOVBUYlU0YnQ3Z9IBckFVX3lxTE9OWGxYdGRFa3NTX0M4WVhYN2xzbENrTGVkbHhuOFg5VUhWV2dHRU4tZW1XMkR4YnBTUXhrMjBKTDhmLWlZa0dQOXN4T2ptQkl0SHVrajg1ZGFfUi13WjZNaTlDaGNfbExNYzAtLWhQT25JQQ?oc=5",
-        "timestamp": 1772056620.0
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DazBpcWNUSDdjeFFBTVR3eHVSak4yWkdPTE5iY0lSb3U1TlpMeEEwOTJwVzBONkpDNGZqQTJJQVFoNXE3NXJwVy1ZSEdPVnVkcURIbERCTDhWZW9DS05NSHE1YThJLU1rcmNNeUE1WF9KZk5sQVM4dE5R0gF6QVVfeXFMUHh6TVhVZi1aMy1fZXFsbl9Ka2tRUVZRVGRzbEp6R1Q5eGl4MUhjekJyWE1nLXBvaWN2OFFBMF8yMV90RU9HVFg0RjNRRE5URkZmY2lkTG5PZnhkQ2todmF4OE94VHZhWS05cFNKU045RldzVzBrVTVIYWc?oc=5",
+        "timestamp": 1772478420.0
       },
       {
         "title": "Virginia bill would legalize online casino gambling",
@@ -278,18 +278,18 @@
         "timestamp": 1772112348.0
       },
       {
-        "title": "Massachusetts Sports Betting: MA Sportsbook Promos & Apps",
-        "desc": "Massachusetts Sports Betting: MA Sportsbook Promos & Apps  FOX Sports",
-        "source": "FOX Sports",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DazBpcWNUSDdjeFFBTVR3eHVSak4yWkdPTE5iY0lSb3U1TlpMeEEwOTJwVzBONkpDNGZqQTJJQVFoNXE3NXJwVy1ZSEdPVnVkcURIbERCTDhWZW9DS05NSHE1YThJLU1rcmNNeUE1WF9KZk5sQVM4dE5R0gF6QVVfeXFMUHh6TVhVZi1aMy1fZXFsbl9Ka2tRUVZRVGRzbEp6R1Q5eGl4MUhjekJyWE1nLXBvaWN2OFFBMF8yMV90RU9HVFg0RjNRRE5URkZmY2lkTG5PZnhkQ2todmF4OE94VHZhWS05cFNKU045RldzVzBrVTVIYWc?oc=5",
-        "timestamp": 1772478420.0
-      },
-      {
         "title": "iGaming legislation has a lot of money in favor of it this year",
         "desc": "iGaming legislation has a lot of money in favor of it this year  Virginia Scope",
         "source": "Virginia Scope",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUdGaU02Z2hDUXN0UUtuZVdCcXg2N0VFa1pFOVhTUTcxNVMxeFVDdURsR1E5QmpjZ3U3ZG5QWEdRSXVoNmFDcTZMUF9sOFZHX2VTVjBWdDF2NDhPSjhTZXppanRrdFhSRWdMaFZzNDdzY00tN284SW0xNFRENjJWbTVTMW94Zl9wTGI3VERNOXNVdUVmTlRKWUlB?oc=5",
         "timestamp": 1772253680.0
+      },
+      {
+        "title": "The public health hazards in sports betting | PODIUM",
+        "desc": "The public health hazards in sports betting | PODIUM  Colorado Politics",
+        "source": "Colorado Politics",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVFiX1dFa0hJLURlMzF2ekdMZ0NiNzktdmY1YzRscHlpZVg2TzZLLU0yYmlPVU1ObndJekVaWXNNMDI4X3p3a1VHZ1MySUt3OWZsaVFCU0xhUXRNTEc2Wm02ZzB6eUoxZG4ydzZVN2w5WWRJYUNfd2NSLWxrVl9XcjBZcUh1VDBlYmliSThDXzdoUWJDUWlxNE96WQ?oc=5",
+        "timestamp": 1772611459.0
       }
     ],
     "casino": [
@@ -378,18 +378,18 @@
         "timestamp": 1690786800.0
       },
       {
-        "title": "Highest RTP slots and best slot sites for 2026 reviewed",
-        "desc": "Highest RTP slots and best slot sites for 2026 reviewed  Detroit Free Press",
-        "source": "Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wTDhseXRQdmsteWZuVDEwWm9HckNzQnRDbXZ3X2Z2WFJRYkp5UHhPZ2tQUDdSZE02aklrVVV6Ymd4VXQzSFBrN3gzWERPMW1peWJFMl92ZHlWSFl3UngyNFd6Zzg1bUg3a3J5R29sM3NKSzg?oc=5",
-        "timestamp": 1764230400.0
-      },
-      {
         "title": "World Triathlon And PTO Announce New Anti-Doping Measures For Long Distance Triathlon",
         "desc": "World Triathlon And PTO Announce New Anti-Doping Measures For Long Distance Triathlon  PTO | Professional Triathletes Organisation",
         "source": "PTO | Professional Triathletes Organisation",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFFHbGhZQmRrOWI0WUk5b1N6TVZoM2EtTFFvSjYtZmZma1lmcERNa1lxUUpZalZVSDBXVXVIZ29idGhiQmhwV3RlQW00Z1N1SW52WDBZQTE5X0NfUXRJb2o5azBFNENxNmFJRWJ2R0VYUUNkcU5CUWtYd2lEMy03dEhmYjhSYWJXWHV6WldjeDhPNUZUcW43SElmclQ3YkpfY0E?oc=5",
         "timestamp": 1715324400.0
+      },
+      {
+        "title": "Highest RTP slots and best slot sites for 2026 reviewed",
+        "desc": "Highest RTP slots and best slot sites for 2026 reviewed  Detroit Free Press",
+        "source": "Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wTDhseXRQdmsteWZuVDEwWm9HckNzQnRDbXZ3X2Z2WFJRYkp5UHhPZ2tQUDdSZE02aklrVVV6Ymd4VXQzSFBrN3gzWERPMW1peWJFMl92ZHlWSFl3UngyNFd6Zzg1bUg3a3J5R29sM3NKSzg?oc=5",
+        "timestamp": 1764230400.0
       },
       {
         "title": "Eye on Payments: Nvidia\u2019s AI Fraud Detection Tool; RTP\u2019s Ongoing Use Grows",
@@ -520,6 +520,13 @@
         "timestamp": 1772240172.0
       },
       {
+        "title": "How to Choose a Reliable Crypto Casino in Australia",
+        "desc": "How to Choose a Reliable Crypto Casino in Australia  Programming Insider",
+        "source": "Programming Insider",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVZmcU8xQ1lZUjgxVERvYlE1NElJdVI4Y2tmRUpqYjI5aTdQbmo3VXptYVBaYUFpR2JTWS1wS0FzWGdacGV5Rk9IWUJsS2tMVGd6SlhicUs4UlNQZThaU0o0bzMyQ19ydTdjcWxVcmsyZ1dkQklnbWZLWWl6d0o4SEw2VDV6QWZxT2NJ?oc=5",
+        "timestamp": 1772325772.0
+      },
+      {
         "title": "5 Best Crypto Casinos 2026 - We Tested Withdrawal Speed, Provably Fair & Support So You Don't Have To",
         "desc": "5 Best Crypto Casinos 2026 - We Tested Withdrawal Speed, Provably Fair & Support So You Don't Have To  Muddy River News",
         "source": "Muddy River News",
@@ -527,18 +534,11 @@
         "timestamp": 1772289170.0
       },
       {
-        "title": "Mick Mulvaney Launches \u2018Gambling is Not Investing\u2019 Coalition to Crack Down on Prediction Markets",
-        "desc": "Mick Mulvaney Launches \u2018Gambling is Not Investing\u2019 Coalition to Crack Down on Prediction Markets  Casino.org",
-        "source": "Casino.org",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb29sU0JxbjUzZUlNc2NiTk51dXVZOENyc29PZV9RZ3FkUHhHWW9SMDVsUDUtT1dBZ3o3RHNEd1NBeGZGWFBlRlhRLXZMa3RHSW9URjNtSEdQQTVLOTZ5ZWlVWGt2ZHdjTG5ybGxCdXhvY3QzdG1WVzZuUWZHOXVrRFNvZExjZ1NsTG5EdzNIUS1tdmE5N0xqX3BzSXEwMzVub2ZTbTE5OU83eWZzTmFfN0NVdmRmRnBiLVFMd1IyRmc?oc=5",
-        "timestamp": 1772578317.0
-      },
-      {
-        "title": "5 Best Freshly Launched Casinos: Top New Casinos Ranked and Reviewed",
-        "desc": "5 Best Freshly Launched Casinos: Top New Casinos Ranked and Reviewed  Eudaimonia and Co",
+        "title": "Safe Online Casinos In U.S.A: Most Trusted Online Casinos 2026",
+        "desc": "Safe Online Casinos In U.S.A: Most Trusted Online Casinos 2026  Eudaimonia and Co",
         "source": "Eudaimonia and Co",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlBkZ1lxWXZsazkxNkNsZEdXVTIzSTNYSkIwQ2RVaG9rZHlrX2ZUMlBFQWNwNnl3N01ZTzBNUDFXMUsyamFHS2NLRU91bklrY1QwcnFvT0ZEZW9RdlFmYk1YTnJQNHROeGc5NXFoVHJYNjFGdzVLMkFlcmVvalRwazhsRzZuMDMxR2JJ?oc=5",
-        "timestamp": 1772201647.0
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTEdfVHFaNFNYRFJyYklBRVhPdWxkOVFFTFRlLWVtQ1J0MVBFNEJPRjhxU2t0WFhETTFpNVZnQlJMOEFDaWdxRXV2ZXFWS1F2S1V4TmttNWc0SDNJQjljRC01TXJ3REFvN21MTHlkcy1keFNJaTFkaTVKMDN5OVVPZGVabw?oc=5",
+        "timestamp": 1772085486.0
       },
       {
         "title": "Best Bitcoin Gambling Sites in 2026",
@@ -562,18 +562,18 @@
         "timestamp": 1772506800.0
       },
       {
-        "title": "Best Online Casinos Canada 2026: 5 Safe Real Money Online Casinos for Canadians",
-        "desc": "Best Online Casinos Canada 2026: 5 Safe Real Money Online Casinos for Canadians  Muddy River News",
-        "source": "Muddy River News",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbXNpNVRpS0RGNWZoeHhTQk5tZXZQNU9NTFBpV0tXMEluT0hBenZpaFNlamd5bjF5MHZNNkhNeWZaaXd3SGhaNlJFUGFTZlgxQ0JnSFZyS2RFMmtOa0s2b1Y1VTVNUW9hNXZYeWFqTHNjdW56Q29lNlZnb2J2V3hfXzRHX1VpeWZxRDFZcjNIekpXQ1luTEtFVm1kbWU0ZUlveFpCTjFseU1md1F2WGNmdTNlMDVBRnBnMXp4eXN4Mng1ek00YUtqdDItal9JdVRIVEo5R19mdTNCUm9LTzV1Tld3?oc=5",
-        "timestamp": 1772474529.0
+        "title": "5 Best Freshly Launched Casinos: Top New Casinos Ranked and Reviewed",
+        "desc": "5 Best Freshly Launched Casinos: Top New Casinos Ranked and Reviewed  Eudaimonia and Co",
+        "source": "Eudaimonia and Co",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlBkZ1lxWXZsazkxNkNsZEdXVTIzSTNYSkIwQ2RVaG9rZHlrX2ZUMlBFQWNwNnl3N01ZTzBNUDFXMUsyamFHS2NLRU91bklrY1QwcnFvT0ZEZW9RdlFmYk1YTnJQNHROeGc5NXFoVHJYNjFGdzVLMkFlcmVvalRwazhsRzZuMDMxR2JJ?oc=5",
+        "timestamp": 1772201647.0
       },
       {
-        "title": "Mobile Mastery: How Win British Co.Uk Elevates Real\u2011Money Play on the Go",
-        "desc": "Mobile Mastery: How Win British Co.Uk Elevates Real\u2011Money Play on the Go  zeleb.es",
-        "source": "zeleb.es",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWNjVnk2X3ZuMjBVWE5RYjhqdGZxVFRHaHp3NTZTRTBsNDU3TjZjN2xLMWxMOHV1M1hMMldzUHFENWluZmNMSWQ2d1BzWVlXSS1QU1o4UEs3eXZwdm9FTm1aanNWZjktUEFkLVc2Q191LTJGSkZHT0UwZUpNOGxxWkJuX3FCOWdraC05bm5wLTJjanVMNHBQTVRYSEo4QQ?oc=5",
-        "timestamp": 1772159184.0
+        "title": "Mick Mulvaney Launches \u2018Gambling is Not Investing\u2019 Coalition to Crack Down on Prediction Markets",
+        "desc": "Mick Mulvaney Launches \u2018Gambling is Not Investing\u2019 Coalition to Crack Down on Prediction Markets  Casino.org",
+        "source": "Casino.org",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb29sU0JxbjUzZUlNc2NiTk51dXVZOENyc29PZV9RZ3FkUHhHWW9SMDVsUDUtT1dBZ3o3RHNEd1NBeGZGWFBlRlhRLXZMa3RHSW9URjNtSEdQQTVLOTZ5ZWlVWGt2ZHdjTG5ybGxCdXhvY3QzdG1WVzZuUWZHOXVrRFNvZExjZ1NsTG5EdzNIUS1tdmE5N0xqX3BzSXEwMzVub2ZTbTE5OU83eWZzTmFfN0NVdmRmRnBiLVFMd1IyRmc?oc=5",
+        "timestamp": 1772578317.0
       }
     ],
     "sports_betting": [
@@ -590,13 +590,6 @@
         "source": "PGA Tour",
         "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNNDJ4ZDk5ZGpyTlg3VVFzcFIxN19tbHREZi1ndkZUeFpfR01PYXYwV3ZoMkQzVmVKTTg1QUxhTDZrNWJ1RUs0SHZDZUxjdmJieWxxZnZoTFRDcTZaYjR3SlFtWFctclJXcGJSdThKTXd3Y05RaUpFcDNGYnU2NUJhNFFLR3VUMjV6Y3liVndYc3V6cF9kMjliaW9zcjFTblRyR1I2c3h0alRtbmpqRVZFNmlsYmIzc1NKRllJc2lTUDBUTk5GakZudF9Fd281SU9iSGtlVC02TVdqZnJVZlBqOE4tZmMyV1Y0Uks3WWF6d1BwcXRuQmhSaEQ4d0R5cS01VnBoT0tiUGRablFvUXVod0YtVVU2Z0FJeEVZaG5KTGM2U1U0b20tSU8xaUNjbmhGcnA3QVBfd0E?oc=5",
         "timestamp": 1772640843.0
-      },
-      {
-        "title": "Premier League Betting Tips: Spurs to show fight and tasty treble for Elland Road",
-        "desc": "Premier League Betting Tips: Spurs to show fight and tasty treble for Elland Road  DAZN",
-        "source": "DAZN",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMXFyTEdXdEE3ZktHS2FuZlFNMFBNSzVUNHh3SDkzUVUwUURZZlE0ZzU1ZjVsRjlIdHBlb1k4d3FhbkhWU1ctN1hmSzJrRkxKbktJTkhSaXhtajdLQUxhRVNmdGUxMkdqTTZTRW16S2dHWXh6dy1TNXFycGlrMVQwM1dEQm1kbEJZNGFEd3RBTElwVERXa1Q2VlRTelgzRzlUTnIzWm9oVVRrTmNYRFQ4Z2pINEpFQmRDNU5MS0tKb3BybXBuLURqTkJUY0ZEcThKNWh0MXhGQXVldjBaNnNER1lQR3l0UzVrNWJ3?oc=5",
-        "timestamp": 1772204433.0
       },
       {
         "title": "Thunder vs. Knicks NBA player props - Wednesday, March 4",
@@ -620,11 +613,25 @@
         "timestamp": 1772576340.0
       },
       {
+        "title": "Celtics vs. 76ers NBA player props - Sunday, March 1",
+        "desc": "Celtics vs. 76ers NBA player props - Sunday, March 1  Celtics Wire",
+        "source": "Celtics Wire",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdWgzejJUT2tDdWhlY0ljbXo2a3lEdWw2NFctejVXcWI4TlNWVXNDUE1NU0o2djNoOXRTQXhUUlZLLVZjU2xGQ0NkdW1TdWlUT3JZaEZYNWNGS0lhVU1zLTFjOE43a3NvaW1OLUpLczljQVM2eVdNLV9Gc0swTmRURmNydlllQm5wVm0wWThYeU41RndsSVQ2VG1NWGkyU1RvV1I4azFiejA3dEF6SkxLMldIT1lvWVV0MjRrRlVn?oc=5",
+        "timestamp": 1772403420.0
+      },
+      {
         "title": "Thunder vs. Mavericks NBA player props - Sunday, March 1",
         "desc": "Thunder vs. Mavericks NBA player props - Sunday, March 1  OKC Thunder Wire",
         "source": "OKC Thunder Wire",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbnZYS3VHWlpPR3MzM2R1S0haOGNXZzlrUXRIYTVNLXJ2UHNVMm5fZTJqbGdMMUxuUXhBX0tSZGN4T3pSclFvZEZTV1FQUG4td3I3b0g3QnpMNTZENDBhbk8yQzNMNXRKcnlMRXEyekNPTTNuX0gyRzFHSGJhelo3b0wxNGZJc3FYUXdlRVpsTnpmbThUVWMxaEkyQU9UaTlpNTVKcnFPdlBBVmhSaGY0SlpZbVlBY1RSWjNwdUc5bDNPWmNaUzRj?oc=5",
         "timestamp": 1772403360.0
+      },
+      {
+        "title": "Celtics vs. Nets NBA player props - Friday, Feb. 27",
+        "desc": "Celtics vs. Nets NBA player props - Friday, Feb. 27  Celtics Wire",
+        "source": "Celtics Wire",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFBIeTliRDVmUTQ1RDhrTFUwRkUzblVnZUIwSWVwclIwdWdKcjRPTEVLbmU0TFJ2X1NLeDJxZlMtNDRaNzl4ZDJJc3JvNVdfc0VDc1dpMDE4M3pyNWQyNGt6WlNSSG8tVnM1RkVKVGw5dmIwUGs2TW0yUjQ4V3cwcGN0N0dRSFprLVd3RXNFcGZiYlJMeHRJakd3TkE5eFU4cnpsSUFMWUpJX081ZzNrUHd0Qmg0QjNtYU5UYm9n?oc=5",
+        "timestamp": 1772230560.0
       },
       {
         "title": "NBA picks: Thunder vs. Bulls same game parlay \u2013 Tuesday, March 3",
@@ -653,6 +660,13 @@
         "source": "Nets Wire",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFp6QVlYcTVwS3ZDU1R3VEhVNEowRG9fUThRQW95VmlXQlE2TEZNN0JLaEFXQ2taUHJIUG92ZWgwOVpzTldxVFVMQ2pHZGJ1MExDZGxjQk5rYVVUU0xOUkxDMU82aTNidFZqd2xaSlE2aUFOb25zMmo4OGs3eVJQNldkNXlfWmRQc1llUE0taDVRcGdYNUpwblRoSFZ2YVZrLTV6LXNkU1p1XzhLdXM2SQ?oc=5",
         "timestamp": 1772562000.0
+      },
+      {
+        "title": "Clippers vs. Warriors NBA player props - Monday, March 2",
+        "desc": "Clippers vs. Warriors NBA player props - Monday, March 2  Warriors Wire",
+        "source": "Warriors Wire",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmR3NnlTakFmaHhyd01EWkFxTXVpWkNCeFNwdm1ZaTNQa0pCQ1Q5cVE4VjZYWExoOHd5N0ZQNFZIOWUyWW1PdlpGWGtiRTZ2T2lobFd4NEF0Nk9VUFRiWEpMWDJSLXZkOTdjaUVIcHB3M2Z1MmJYTkdjelBmSFZtU19vbXRLaTZNOTJPSEpQZEZENWl2WXk3cXV4YzVoN2tlZzF3QVV2Z1RvOEhZV2VNTzBWV1pKSTdfWDk2WmpRbk5TdGlNVmc?oc=5",
+        "timestamp": 1772504400.0
       },
       {
         "title": "Celtics vs. Hornets NBA player props - Wednesday, March 4",
@@ -690,32 +704,18 @@
         "timestamp": 1772140500.0
       },
       {
-        "title": "NBA picks: Thunder vs. Nuggets same game parlay \u2013 Friday, Feb. 27",
-        "desc": "NBA picks: Thunder vs. Nuggets same game parlay \u2013 Friday, Feb. 27  OKC Thunder Wire",
-        "source": "OKC Thunder Wire",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3o5dVY0OXprTXQzcmdYdzQwN1RXVmRqX1BhVkF4QXY5ZXRjT0hFNnd0Xy0wX1V1eHFleVYxUXE3OFJNZmZaZlFHUXdiSHo5b1pETEJtSFdRbEJ1U3JDNUJ6WjRJVG4xYTBDSXo4dFNDOFJQdDd1TTVHZEI3QzI1eXlyMmNteC1VVHJaWTIwZ0ZMTnpkRFdLaHpzR0lKYWJ6WEZZNUxmYXBQWlN1c3E5ZWdKa2pXeWNOeEZGemlDZ2NlYlZzMWFSZmpVbw?oc=5",
-        "timestamp": 1772244900.0
-      },
-      {
-        "title": "NBA picks: Heat vs. Nets same game parlay \u2013 Tuesday, March 3",
-        "desc": "NBA picks: Heat vs. Nets same game parlay \u2013 Tuesday, March 3  Nets Wire",
+        "title": "Celtics vs. Nets NBA player props - Friday, Feb. 27",
+        "desc": "Celtics vs. Nets NBA player props - Friday, Feb. 27  Nets Wire",
         "source": "Nets Wire",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMklZcFZubV9EemJyV2tabUFLamo0M0xaZTdRMU5FU0pQWVFETDB4OTNKZzRFTVQ0TEs2c2xxdmw5WjU1dkdBczk5ZWNzRzJUU2sxcU9sR3NNTkRlYUJsbXpmMDl6aFZVeW9MUE1HZTFGRndGSHNQSmpZdVY0RDNra2lTZjBHV3R1NWZxV3ZzbERWVE1CM05LakdEa2VNcGJiNFpmRF9qSHlBSXUyQTNIU2tKRWFXQQ?oc=5",
-        "timestamp": 1772572560.0
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWFIUDd3ekxYRzNyMFRWUnZ3MFNMMm5qYzY5TWE1UEpaWWI2Uzc5TDRCOVpQTjZpWEhFTFBhT0lHYUFCYktjbU9QVHpTeVFsdG5HcW02b2FMMTFkZllseW9oVXhXTlotY3dJMkUyWTVTME1DeTFtRTVKQkp3eWEzV19Bd1dZOGVzb0dqQTdkQ3lDQ2oyREtUTllGVjJkVUd2WkVVQkpIMlRqdVpsRjhHQUxwVkhvZw?oc=5",
+        "timestamp": 1772230800.0
       },
       {
-        "title": "76ers vs. Jazz NBA player props - Wednesday, March 4",
-        "desc": "76ers vs. Jazz NBA player props - Wednesday, March 4  Sixers Wire",
-        "source": "Sixers Wire",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbG5HVDJlN1NaQVpWVnh3dmNpVEpzZDdfTlYwdXc1MUlNS2o1M01QemVuQ19zX2FDekRNdVQtYmNTV3VDM29ZVUJuZC0yR2E5TGo4SGU1S0p1NGZIeWRZN0xWRkxEVFEwUjBIbHZaQjA4OEs4ajdaWmJwYjc1RWk5ZlRDQ1VUQURtem9kaENpcnJmX1B1Z1Rfa3pDU1VLc2VKd19uOFFkR1pYQ1F0R19vMzZ1MU5wVVk?oc=5",
-        "timestamp": 1772648280.0
-      },
-      {
-        "title": "NBA picks: Spurs vs. 76ers same game parlay \u2013 Tuesday, March 3",
-        "desc": "NBA picks: Spurs vs. 76ers same game parlay \u2013 Tuesday, March 3  Sixers Wire",
-        "source": "Sixers Wire",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeDJjS05RdC1NdXhuRDUxek5JZTQxZUNUMDA5SzFpekVNVTZpN0MwczJxSjNERUdWMTE1QUd3ZGlkLTY3WURoVDNrQkp1MXlzTW5SbkpQTkw0Nk5kWk5FdXVFZlV0YkJxTlppRmxiRU5VLUxJS3ZQdngtNG5VWDd6NTNNa2FKV2FkaXBnZmY3Z1VvRE91R0FMZURYcVNjeW4xeFc1Z3dlUXF5LTlrNmhaV25DajF4UTlxM2RzRDR3?oc=5",
-        "timestamp": 1772572560.0
+        "title": "Warriors vs. Grizzlies NBA player props - Wednesday, Feb. 25",
+        "desc": "Warriors vs. Grizzlies NBA player props - Wednesday, Feb. 25  Warriors Wire",
+        "source": "Warriors Wire",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTEdKZUhnOGhPaEFPX2RhelJnUlQ3RjkzTzA5QVFrckZzZEtZV0FPYkhxZjNET1dIQzVteEQxNndJNEhsVEtCNkh4bHlQeEx5b3pLMDFvdFlIQTFQbXFqdDB4SUswOGdjQ2x3bmRyTERMVVFPUDBqaWNrY3B1SDYzQUFINDJfelFtYUFuTnlHTkVTNWY5Qmo1TWtZQVhkZkN4SDkwVFVQNV8zZk5ncEQtVWN1VkRPOFgyTGlpaWlVUU9NTDBFaUtwZA?oc=5",
+        "timestamp": 1772057940.0
       }
     ],
     "legal": [
@@ -725,13 +725,6 @@
         "source": "LegalSportsReport",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMDB3R1ZMUjE2NnU3VDgwSDR4dVZSRmgtcjEwUkFIYU1WQUpBd0Z2WjNZMmhud3JWbTdQbWdxc2tXWm5kR1lZVWdabEgwSDJ3QnRUcWJuRmhFRjNKY0ZHWnFSU3JrMF93YWtocUlpY2cyMENKalZsVDVMS0ptZDBWQmJ4ZW9LU2RmYjFIaEllZ19pcDIzckFvSTN5aWstZlUtd1M0RzJQdjhyQnFrWXU4?oc=5",
         "timestamp": 1772636282.0
-      },
-      {
-        "title": "Prediction Markets vs. States: Tax Gaps and Legal Battles",
-        "desc": "Prediction Markets vs. States: Tax Gaps and Legal Battles  Poole College of Management",
-        "source": "Poole College of Management",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSV9aTW5HLWVsb0Y5OTJSX2RYa0R4MlpyTXpic3RyNmRDVDNodWpnVXdmWW9ZbVpwWUUzRUhYU1pOWURIdVZza3cwS2VNTlJ4bjdrd1NaQUtIUXVtd3Q0RWVvam1Ia0dRMXZraDdMbkdKNDZhVm5YN3UzWVc1YzVTRlRod2pndFBLTHNlQkJYb3FlcFJwb3BqbWFaQ2xvME83SjN3WWNFWXRrZw?oc=5",
-        "timestamp": 1772477716.0
       },
       {
         "title": "Vermont Wants to Copy Illinois Per-Wager Sports Betting Tax",
@@ -797,6 +790,13 @@
         "timestamp": 1772580780.0
       },
       {
+        "title": "Illinois Sports Betting 2026: Best IL Sportsbooks",
+        "desc": "Illinois Sports Betting 2026: Best IL Sportsbooks  CBS Sports",
+        "source": "CBS Sports",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12a2M5dU56SUxvNWZYa2Z3WFhONFdUcGNFOGlMa2JqYklvWmhkSVQ0Z2gxYjMzemc5RTRDb3luV0Y1dkFRVG5EX0pzeEEyTThBTXhXMUdUV3Y4NlV6?oc=5",
+        "timestamp": 1772476440.0
+      },
+      {
         "title": "Betting tax: Racing in the crossfire",
         "desc": "Betting tax: Racing in the crossfire  The Citizen",
         "source": "The Citizen",
@@ -832,18 +832,18 @@
         "timestamp": 1772058450.0
       },
       {
+        "title": "USA Herald",
+        "desc": "USA Herald  USA Herald",
+        "source": "USA Herald",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSm5OaTIyU19oRGJGN243QzBEd2R1ZklmNC0tWG91dXVTRGFBX1FTaEZfUW5rcDRGQjdjc1dGeU5VM05BeXJqbXA4Zm1keVYzeEJCQnBIeHlyeGtxZlI0OGxpYUNUYVpXUDJNZjBReDB3Ukl6TjZSaEVjdzZES0c2VGpWUmd4MWlveGc?oc=5",
+        "timestamp": 1772518227.0
+      },
+      {
         "title": "Doximity Investors' $31M Deal Over User Slowdown OK'd",
         "desc": "Doximity Investors' $31M Deal Over User Slowdown OK'd  Law360",
         "source": "Law360",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmRuSkhvaURfRy04R1dvVUtnX0dieldBa1ZhR1NWWXpQbnl4UE5OU2tjVGhyWjNPeTNtbHBJcHZ4WGNiSHNVSWZyVlZqTUhUa3F1c0ZWbmhoNF94S1V6clF3WjF0U09QZHJ0WGhCTGhpbEx1bXdOdkpaaDU3a0ZNOTBab25mVEdJR1lvYU1jeTBMUWtaWDNObUhUVGtaeE9v0gFYQVVfeXFMTVBrWUcteVlWRE1TbjRneXAzUlcxTGxiVmJ6R0JKa05HSkZ0MmxjYXZZODc0Ym5xV1cxVUdJUEV5VmZuMHQwQjZWRGtjeGthdWU0MkRremtKNQ?oc=5",
         "timestamp": 1772160840.0
-      },
-      {
-        "title": "Opposition criticism on Ghana\u2019s progress is politically motivated\u2014 Wonder Madilo",
-        "desc": "Opposition criticism on Ghana\u2019s progress is politically motivated\u2014 Wonder Madilo  MyJoyOnline",
-        "source": "MyJoyOnline",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTJvNkV6cXJHVHlSOS1kN0c2ZExwd0Y1b3NUZXNEeTM2X2w3Y01jRGIyeHRRaDBoM2tzNThpWGhzNmJaa2gyRHhXOGYtUjdmYjZEVi1XaHY4c25Ccm5LQ21mSlVoOHJjdk5GZlFBTjFVSzc2clptQXNsWlI0bUFpbXVyZkNKMWtoU0NpQjF2dURERm91UUFVZHhNNXJYLTMxbjIxckhLQXBCNE0?oc=5",
-        "timestamp": 1772443734.0
       },
       {
         "title": "Colombia\u2019s Lotteries Increase Contributions to the Health System in 2025",
@@ -897,13 +897,6 @@
         "timestamp": 1772552128.0
       },
       {
-        "title": "Bet365 Casino updates welcome offer for Pennsylvania, New Jersey online casino players",
-        "desc": "Bet365 Casino updates welcome offer for Pennsylvania, New Jersey online casino players  SportsLine",
-        "source": "SportsLine",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3NGdlJWZVJSUVAzbFhTQXl4VVhwaTB3SWN3NTZrT2ZuSUExVF84cFV6d3BVeXBOQzh4TVdNbjdPMlJVOWItMXVYYWJHNWd0cXllZHZMWXZJZXExdWJ6QU40S0RkVjlhZzJuOE9fb3o1XzZEcTk4blM3VVRpc1NURkFMRzNkOHZDbzZqVTN0X1RtXy04OUt6ZmJzRGlaX1VDVTQ1aDNwYUE0bWdQdVJlWU9BR3FIWlZSSVRwcXFB?oc=5",
-        "timestamp": 1772481240.0
-      },
-      {
         "title": "FanDuel Casino promo code 2026: $40 casino credits + 500 bonus spins",
         "desc": "FanDuel Casino promo code 2026: $40 casino credits + 500 bonus spins  MLive.com",
         "source": "MLive.com",
@@ -916,6 +909,13 @@
         "source": "RotoWire",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNakRKdEJmQVB5ZThSNXlSRDVWaXQ1VzAyVkdGZHpFdDJRNEN5dnZTaWJxVkFCeEgxQkR0RjlYeThrU0FyMzhUV3dFREtXaHpwandPLWxGU3pYSmFsR2tMdkpWZk9Mdm80YlpPSU1yWHdyWTl2UHF3Ukg2ZmN1LXRVa3BmTUlfd05rSm5mOF9CTVVDUWdHejdxLXl0SUdJQU9uQWxyb3FRcXpRTXBxb2VvTThQZTNTT3hFWmk0QVYxMXZ1WGZ1SGZlUU51V3c4OTh1ZkE?oc=5",
         "timestamp": 1772560860.0
+      },
+      {
+        "title": "DraftKings Welcome Bonus for Big Game 2026: Bet $5, Get Up to $300",
+        "desc": "DraftKings Welcome Bonus for Big Game 2026: Bet $5, Get Up to $300  Daily Racing Form",
+        "source": "Daily Racing Form",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTmd1a3pIbC1SNTdpTzlpQ1ZVZkRWOF9DelVJV0RZQl9OT09RdWswT1FrY3NBSXZPU1lpN2cxcXI4a0Q1OG1jaTBncjUydHlQc0M5cVdmbnp4N3dYbkl3Z3JCVGpvdl9BaUlTWnFxc2pfVTgzdlRQMWx3MmJNcENKRjVQcw?oc=5",
+        "timestamp": 1772565467.0
       },
       {
         "title": "ReBet Casino promo code BETLSR: 50% Deposit Match Up To $50 ReBet Cash",
@@ -974,13 +974,6 @@
         "timestamp": 1772474400.0
       },
       {
-        "title": "Hacksaw Gaming reveals new game releases for February 2026",
-        "desc": "Hacksaw Gaming reveals new game releases for February 2026  SportsLine",
-        "source": "SportsLine",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGhMYWNfcFZ5OWxHdWI2SVV6RmotOEdZaFFTOXlEc1BhQUZqazJ6Rmc5a2VtTHNtOWpSWTNmNVhHUzNoN0lrZ1pSczJpR0JEZllsakU5S2tFZlZxNW5nYjZwREFZb1NkY2UyckNUX1pLa29IRlI1M2ROWXpLNzhrSGZRMXByV0R6Ykxuemd2cTV0X1Z4d1d5cjFB?oc=5",
-        "timestamp": 1772209920.0
-      },
-      {
         "title": "FanDuel Promo Code: Bet $5, Get $100 in Bonus Bets if Bet Wins February 2026",
         "desc": "FanDuel Promo Code: Bet $5, Get $100 in Bonus Bets if Bet Wins February 2026  LegalSportsReport",
         "source": "LegalSportsReport",
@@ -993,6 +986,13 @@
         "source": "AL.com",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySzY5ak5RcGZ2SW5LWGFnOVBNaTdfSHJNejMzSHhEZlhqUTExQlc5OW1PSENrOG9VMjI1el9Zc1hxaVEya1ZpWHZUX282bXZpMTFF?oc=5",
         "timestamp": 1772466960.0
+      },
+      {
+        "title": "Hello Millions Casino Promo Code: Claim Up to 257.5K GC + 127.5 SC Free",
+        "desc": "Hello Millions Casino Promo Code: Claim Up to 257.5K GC + 127.5 SC Free  RotoWire",
+        "source": "RotoWire",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2Y3dFZYS3A1ZngxUmFvSUFkY1ZDVEpRaDluQUJsMENpbjJ1cDBub2lBaGxuN0Q3YmN6ZjBTc245LXRISll4MEdxam4xZnd2S1ZDbUJnYzQ5Rk5jS19nVlZXMG1kSllQcVV2aGJiMDR1eks2ZzdldjZZSk9kWl9nVy1RTWhGaG54di1nUzkwRndlcVV5OE1IWHIxSm42bHpXcWN3RlpiODhydw?oc=5",
+        "timestamp": 1772388000.0
       },
       {
         "title": "Why the PlayFame Casino bonus is one of the industry\u2019s best offers",
@@ -1095,6 +1095,13 @@
         "timestamp": 1772460041.0
       },
       {
+        "title": "NBA Same Game Parlays & Picks: Wednesday (3/4)",
+        "desc": "NBA Same Game Parlays & Picks: Wednesday (3/4)  BettingPros",
+        "source": "BettingPros",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMjJUSWFTRDNKZ3VBYVBWR2dsNVVHSmQxVGtSNmFhLS1WSjVyWFhMazZIejdWUVNDV2tvX3cyaEVpQ2dBUnd2ZGtSMWRjTEJudVRsNGtlNU1OZ0hwZTVPb2ZRNWNCeURVZGdRSXo0VmZzT0ZpN1RudkEyajBoWUxuV0lHS2xiZU14dEpF0gGLAUFVX3lxTE8yMlRJYVNEM0pndUFhUFZHZ2w1VUdKZDFUa1I2YWEtLVZKNXJYWExrNkh6N1ZRU0NXa29fdzJoRWlDZ0FSd3Zka1IxZGNMQm51VGw0a2U1TU5nSHBlNU9vZlE1Y0J5RFVkZ1FJejRWZnNPRmk3VG52QTJqMGhZTG5XSUdLbGJlTXh0SkU?oc=5",
+        "timestamp": 1772650594.0
+      },
+      {
         "title": "McLean\u2019s Selections for Turfway Park on Wednesday, March 4",
         "desc": "McLean\u2019s Selections for Turfway Park on Wednesday, March 4  The Pressbox",
         "source": "The Pressbox",
@@ -1130,13 +1137,6 @@
         "timestamp": 1772453032.0
       },
       {
-        "title": "My Effective Betting Strategy for Tennis 2026: Ace Tennis Betting Today",
-        "desc": "My Effective Betting Strategy for Tennis 2026: Ace Tennis Betting Today  Sportsgambler",
-        "source": "Sportsgambler",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaaUtfQ3hBcXpQLUhEa2I2YkszbnhnY1JPZ0dvMjMzYWtYM0lPOEJkSTBhTVoySzFwS1JyU25ELXdORnRvWHltVXJhNHNfd0lKUXZfcWl5dDk1RkZfMkhzTlNR?oc=5",
-        "timestamp": 1772179200.0
-      },
-      {
         "title": "How Travel Photography Is Becoming Part of the Vacation Experience",
         "desc": "How Travel Photography Is Becoming Part of the Vacation Experience  shawanoleader.com",
         "source": "shawanoleader.com",
@@ -1146,18 +1146,18 @@
     ],
     "tech": [
       {
-        "title": "Crash games \u2013 a new type of entertainment at online casinos",
-        "desc": "Crash games \u2013 a new type of entertainment at online casinos  The Plaid Horse Magazine",
-        "source": "The Plaid Horse Magazine",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMl9jandFNFJJdHZLb2I5TDluRS1iVzRzbEM4Y0ZGdTZLSVk1YjhGNXBtWUdQWVpNMzFMdnRUZEp1UVVDOVllWFJGbnJITEMzQU84Qi1lRkFfeGVSMUE3RHltVTZLRnBXMjQ1aHNnTVItY0dDSGVQSjRaNmZlMGhUVmNvbGEzbnRlRXllMGdwV1JjQWFtM3dMTmNrS1hSTktk?oc=5",
-        "timestamp": 1772244940.0
-      },
-      {
         "title": "Why Aviator and Other Crash Games Are Built for Sharing",
         "desc": "Why Aviator and Other Crash Games Are Built for Sharing  nerdbot",
         "source": "nerdbot",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZEw3NmctcG5mcjBEQ3IxcHZHVHU1X21Fc0NpNUp1dkNEbUItVXhza2w3NEFrRDQ3ekpyMUlsZDlxVUFxeHpkWFdId3RpaFVCV3VQRWN4cFFPRVNlQ3p6eHgtWC1JYnhMcnhvMUZDMVprdnNMWGxvcTlvVmR6N3JLbERVYlhfTnlWV0pyWTZfSE8?oc=5",
         "timestamp": 1772543672.0
+      },
+      {
+        "title": "Safest Crash Crypto Games: Security Guide & Platform Comparison 2025",
+        "desc": "Safest Crash Crypto Games: Security Guide & Platform Comparison 2025  Bitget",
+        "source": "Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMNUEwOWVBaGp0bTNDOXpZd3FJZkRXSVhzcmVJMmItRXpzS3JxVHpoRzZGVGpUckRPdmdrYWFma0RUdWN3Q082a2FzZ2pScnF5NDd2QkVVYzlSbk1Pazc2c0xrTdIBY0FVX3lxTFBMNUEwOWVBaGp0bTNDOXpZd3FJZkRXSVhzcmVJMmItRXpzS3JxVHpoRzZGVGpUckRPdmdrYWFma0RUdWN3Q082a2FzZ2pScnF5NDd2QkVVYzlSbk1Pazc2c0xrTQ?oc=5",
+        "timestamp": 1772649776.0
       },
       {
         "title": "Magic Eden winds down EVM, Bitcoin NFT markets to focus on gambling",
@@ -1230,11 +1230,32 @@
         "timestamp": 1772576925.0
       },
       {
+        "title": ".make_html_title at 0x7f39387da170>/>",
+        "desc": ".make_html_title at 0x7f39387da170>/>  nachasi.com",
+        "source": "nachasi.com",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LdEdWaDVvOHhYMS1Ianpwal9DbDFNa0ZYdXFYLUd4Z0pLeHB5bUFRSnFTS3FJSHJFaVJqWFV3MmhMRXNEWlJsUXVwVGh0bVFWUUw1WXVONkl1Zmt6UFgzbUJnb19OR2g2TGNZVFA1cw?oc=5",
+        "timestamp": 1772555539.0
+      },
+      {
         "title": "Seven Casino review \u2013 Big welcome bonus + cashback!",
         "desc": "Seven Casino review \u2013 Big welcome bonus + cashback!  talkSPORT",
         "source": "talkSPORT",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nN0MtZG9qcThZV25xYjBwbi04aDFNWkdDUDBWRlZoaEM3LVRVM3hFTTY2VVhzUDdiTDNWMEdJWkE0UXBReTZCZ01CaDNRSGhFUUkzWW5pRDFpMEVxTmpiam9CazNHalFWb3hQcmpNWkJzdw?oc=5",
         "timestamp": 1772458636.0
+      },
+      {
+        "title": "Snatch Casino review \ud83c\udfc6 450% up to \u20ac3,000 + 325 FS",
+        "desc": "Snatch Casino review \ud83c\udfc6 450% up to \u20ac3,000 + 325 FS  talkSPORT",
+        "source": "talkSPORT",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XdlFMaDdROVN5bk1lWjlGM3oxZDZNUlN0eUNBRVE3TERUcGNLS0tzUXZldlh5TkpJd3NqZHB2YklCMDV0TmZlMDBvdzZSUVRWcFZVZ2xqOWhVWUh5bmZPdWlzd0ZCZmd5bkxmbHVzMU5OOUk?oc=5",
+        "timestamp": 1772458787.0
+      },
+      {
+        "title": "ProntoBet casino review \ud83c\udfc6 200% up to \u20ac1,000",
+        "desc": "ProntoBet casino review \ud83c\udfc6 200% up to \u20ac1,000  talkSPORT",
+        "source": "talkSPORT",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hbUZDTlZnTnhWblVma1lQdzdiZzZ6U1FUbmRUN3JWV3pvc3YzVjlIX0xfbTI2SS1uRnNUWW9KQ0FzS3VXVmk4V29NX2xtZmN5MjJpcEhyWWVYc0hIN3Vfd3FpMl9NR200bDFYYlo0ems4ekstMFhB?oc=5",
+        "timestamp": 1772458778.0
       },
       {
         "title": "Are Crash Games Dominating Sweepstakes Casinos in 2026?",
@@ -1252,6 +1273,13 @@
       }
     ],
     "scandals": [
+      {
+        "title": "Is the Game Fixed? 50% of Fans Say Yes as Betting Scandals Shake Pro Sports",
+        "desc": "Is the Game Fixed? 50% of Fans Say Yes as Betting Scandals Shake Pro Sports  Gaming America",
+        "source": "Gaming America",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzB4OUtMVm5Mc3RDay14OHFKcGU2ZHJPaEthOWI4amZwTWVzRXNTZkY0T2t1amFvUWJXOS0xM3gzTWZYNEh2SXlrN3RfMzlMSERYNjdIRnE3S19MRVl6X2cydmxQdHlsNmRqT2Q3OTgzSE4zM2lGNHF3M0dnRGpZYUN0Z2Eta2ZpZkZucjc0eEZtU3RJREZ6WmUyc0llREh6X2l3TjBuZFN4RU1zTjdF?oc=5",
+        "timestamp": 1772079647.0
+      },
       {
         "title": "Jontay Porter, Banned from NBA for Life Over Betting Scandal, Will Play in Relaunched United States Basketball League",
         "desc": "Jontay Porter, Banned from NBA for Life Over Betting Scandal, Will Play in Relaunched United States Basketball League  People.com",
@@ -1295,6 +1323,13 @@
         "timestamp": 1772212594.0
       },
       {
+        "title": "Nigeria goalkeeper Amas Obasogie suspended over match-fixing allegations",
+        "desc": "Nigeria goalkeeper Amas Obasogie suspended over match-fixing allegations  Flashscore.com",
+        "source": "Flashscore.com",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQlozNk5Vem4zVlJFT3p3QkgwRGhUdEJWZ1AwLWViMXZLWTdaTjR5X25USkZpVFN5WXBaOWhWckk2TFVJSHZhWjYzajhfZG9yeFJHMWhJZU5ZQU5qUzZ1dmM2ZkVGX1VqNjZTT0w5T0V0QUhiaGdjUlItd2hyb1lacDdEQmFkRjYtOU5rU0RqTFNBNzRja1pyajJkYkhYZENEanZvcDh3VmJLVVZWNTZHek12ZW4?oc=5",
+        "timestamp": 1772227100.0
+      },
+      {
         "title": "FIFA renews agreement with Sportradar to combat match-fixing until 2031",
         "desc": "FIFA renews agreement with Sportradar to combat match-fixing until 2031  iGaming Brazil",
         "source": "iGaming Brazil",
@@ -1314,13 +1349,6 @@
         "source": "Tribuna.com",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb1dnNjVPOERXUEExXzJZdDYySTRJbzhPNVVCcXY0UERYYlpzbkxWcllsUjdjNVUtSEIxNjUyeWxQNXEtZTZOWFl0QkVfN1Ftbm4zak1GX2hTZ1lFQVZmMTU0Q1h2ZDFySlB6NlhlMzJoX3NLelhLWUhMRTgxTnRYdmNKbkYyVkh6aldzTDNYd0tZa09TRHBRQmY0bUM4WjZJVVgyejQ1VlR3ZU9ObHhXZnhrWjZJd1RYSVJMYnhjNUhSTE5NMVJ4VXp2V0wyU0xzVVk2ak51b9IB1wFBVV95cUxQb1dnNjVPOERXUEExXzJZdDYySTRJbzhPNVVCcXY0UERYYlpzbkxWcllsUjdjNVUtSEIxNjUyeWxQNXEtZTZOWFl0QkVfN1Ftbm4zak1GX2hTZ1lFQVZmMTU0Q1h2ZDFySlB6NlhlMzJoX3NLelhLWUhMRTgxTnRYdmNKbkYyVkh6aldzTDNYd0tZa09TRHBRQmY0bUM4WjZJVVgyejQ1VlR3ZU9ObHhXZnhrWjZJd1RYSVJMYnhjNUhSTE5NMVJ4VXp2V0wyU0xzVVk2ak51bw?oc=5",
         "timestamp": 1772647380.0
-      },
-      {
-        "title": "ICC slaps five-year ban on ex-cricketer for match fixing",
-        "desc": "ICC slaps five-year ban on ex-cricketer for match fixing  MSN",
-        "source": "MSN",
-        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNem1XLXl3NmxZWEhtTFYxeGVKNE9fN2dEUmZxdU5pX01maXN6Z2hxYnFpNmsyeWJXZFBpcld2Tmk1cGRoaFhhWHFXRzEtLTRzT1c5NXQ0MG1HMmNtRENENDRoT0pfME5MZlBtSTlPWDZUYzJWNDVnQnV2dURxbUJtZnA5aFdLYjZvLTNDdTJ6LVNHTWJKSVRLMnhqaFRtZWlwbDdScTlOdDlKVzRQYXoxZXBfTXd2VnR0dlhLemhvY2JxZ094dUZmakE3N25XV2RoUUJ2aHFORlIyVFU4RkEwUTFHV0ZqSVY4NFRIZFlOVjBvVjN2eDNxU1BidWFrSG9uLUo5d3VhM3IydWxkOXRaLWZiUXJwTDBVOVRTVWl1alRuYlVFLVdPbE9ZbjNZd0VQRlBJaWliOHRmM3JkSjAzX1lxQ0g?oc=5",
-        "timestamp": 1772151670.0
       },
       {
         "title": "Nigerian goalkeeper Obasogie suspended for match-fixing allegations",
@@ -1384,13 +1412,6 @@
         "source": "Daily Trust",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TU1dndVB6RXBMQmxCVEhDdjdSWUVyd01RaWYwNU5WekxkX05sVTdqMXozT0VfdHZpS0E3c2pzQm8xNFgwVk5hd3R1OHQwM0JEcW9nQkJRaWVWSndlU0Uya1ItR0ZSbEpTVmUzelJhRkRuMDA5b3BOSVVQYnFZa2s?oc=5",
         "timestamp": 1772268324.0
-      },
-      {
-        "title": "Obasogie denies match-fixing allegations after suspension",
-        "desc": "Obasogie denies match-fixing allegations after suspension  Vanguard News",
-        "source": "Vanguard News",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXdUeFpQQnUtM1hpMFdvUFdWSzg5X1pJZ0JhaXk1UWU1MFhVQnptWDE1U29hVVphczc1RGdMREhKYVk0TGlCMDJGYlo2cjJQLVc0Q05MTzF6dTZ1WFhUQ2FPNzBXT0xlcVdmQ2ROdEs0WUIzZ2dIdmExcWo0NFE1TGtwbnY3RzlyUmJtX1dKM3Z3OUwxY0ZGVWhR0gGfAUFVX3lxTE9NcEg5LWxsbmtkOFk1MlE4ZGU0dV9vZDBDTktFREdQZktwdm55alJUa2NtRjZMMkFFS2tfd3ZBT0VnMnMxSEFFRW8zS3llRXF4MzRneWxhSG9KWHN5TzRWdlhvTkxGWDI5UWVTWnZtdGJOS3VjakVseUR0OUVFbGw5LS1idEhRcE5UQmlsN2hqMC1ZVjAtR1JRZERsTER5QQ?oc=5",
-        "timestamp": 1772353406.0
       }
     ],
     "esports": [
@@ -1423,25 +1444,11 @@
         "timestamp": 1772534354.0
       },
       {
-        "title": "Match Prediction: GnG Amazigh - One More Esports | VALORANT",
-        "desc": "Match Prediction: GnG Amazigh - One More Esports | VALORANT  EGamersWorld",
-        "source": "EGamersWorld",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0p2MWNiQkg2SDZXZFBDcjZwLXpBVEhSREhYaTdhOGxFRUpPZ2p4WEM1eGV6azkwWjd0R1d3ejNSblhBMVBuQmdaUU94QWJKR1ZmcmlxOTRxS1BUOGlvd1d6elQ1TFF1b0J5bjRDUW5tT0MyVzlNY20yV1RtNUluN3ZUZk05NktxWVRxYkU1US0ydWM?oc=5",
-        "timestamp": 1772582689.0
-      },
-      {
         "title": "Prediction on match CS2 100 Thieves - Apogee Esports",
         "desc": "Prediction on match CS2 100 Thieves - Apogee Esports  EGamersWorld",
         "source": "EGamersWorld",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMUpEUTFiZUlwRVZGeUQ0NUYwQmpRYjlnOC1XTnFLdUhMcFplSmpyeW9pX0FtbDJvTk4wMUg4eXE3dmxyaEZ2VXNLdGNJMUdsTm54YXZaa1g3d3JuMmpYdkFMTEk3YjFmeThXUnhsZmRyYXluVnA5alRnanc2RG5FdTVZMzNSeFl4REEzOHFVd09EZlBjWUJv?oc=5",
         "timestamp": 1772140126.0
-      },
-      {
-        "title": "Prediction on match CS2 Rare Atom - The Huns Esports",
-        "desc": "Prediction on match CS2 Rare Atom - The Huns Esports  EGamersWorld",
-        "source": "EGamersWorld",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWs5bHpoZ0FTQlpGRjZYUlQ0VlFkM3VUR0pMbXlxVk9wbHpZbTVoOVBnRlk3UHBQc3NsMFFYMHZXc0UxblpCd0dTYS1tMVlhUXRvOWM2dmpJbjM5bkhuYmRtd0Vrd0xVczBvNXBxRjVyWFY5d1FiVTBHNTY5UGhsOGhuUUM3b0YyUTJmYldvTmctRGxnS0JZ?oc=5",
-        "timestamp": 1772055081.0
       },
       {
         "title": "Best CS2 Betting Sites: Markets, Tools & What Actually Matters in 2026",
@@ -1533,9 +1540,164 @@
         "source": "EGamersWorld",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkV4cmd1X0ZpX3FxSmxzUENhZkRFbE5Ha1hYV2xlMzlwU3hsVnYtYWZkT2ZsRHA5RGRzVlpRcVdWSFRfZUJwUTIzTHBodEZrZ1ZfdjM3YU5iUUhPeW1BREZ1OXJ3ZEsyeGlORFpsdDZKSXQyMS11NHN6dmd1bFpuaXByRjk1cWNRY2ZsZ21mZUQ?oc=5",
         "timestamp": 1772216964.0
+      },
+      {
+        "title": "LEO Esports vs Ruddy Esports: Betting TIp, Match Prediction. 26.02.2026 at 20:00. LoL, NLC 2026 Winter",
+        "desc": "LEO Esports vs Ruddy Esports: Betting TIp, Match Prediction. 26.02.2026 at 20:00. LoL, NLC 2026 Winter  EGamersWorld",
+        "source": "EGamersWorld",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSnRMalhILUlkRTJXQmZUZzN3U2ZmMFh4c1dYdVN3YUc4Y2hYblV6X3ZoNkdwUE9Pb3l1czRwa1c1ejdvTnlQcXlkNXQ4MW5QSGU4OHFLdXc1blh2Q1lwaGtyYWdrTHFsVjJXbzhEQi1tQktqRFUzeVQ1b1RYUXMwZ2lIVlBQekJqV3c?oc=5",
+        "timestamp": 1772070601.0
+      },
+      {
+        "title": "Leveling Up: Why Esports Bettors Are Flocking to Offshore Markets",
+        "desc": "Leveling Up: Why Esports Bettors Are Flocking to Offshore Markets  EGamersWorld",
+        "source": "EGamersWorld",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa09WcTN0WkMtZnFKTjJ1bmhpY1MxWk1yeDlqOXJHWXNkeTRRVFZNSWpac2xWekZraUo5c09MM3U1ZE5oejkzVncwZGVRNzdSZG9RMExSVHk3Y1RnaTFaRFRtUkpQd3hZejFpOWlFX21uaF84ekoyelhCSjJsOFhNQ0Y5MkZ4SjlTUFN3YXhqZ1dna2FT?oc=5",
+        "timestamp": 1772611200.0
       }
     ],
-    "fantasy": [],
+    "fantasy": [
+      {
+        "title": "FanDuel, DraftKings can operate in Arkansas after Thursday decision",
+        "desc": "FanDuel, DraftKings can operate in Arkansas after Thursday decision  THV11",
+        "source": "THV11",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZGlxWko1Sl9HRU50Mm5BVEJnNGpqMFlIYjYzZVpCNkxpc2EwU2N6OGMyOWpMOFNLU01tN0tmcHBlZ1BpbldXUjFIcXRIbjByOGdrZVdiSFREdlNHZ0JSaUl6TGJMOGdIUG9Ea0NHdkNINEhxWGtlWnRUSzg5REJGc0l5YXlwMHl6dU1RVzFCVE9uY0ItSXJKU3ZPakthckctbi0wd01scDgwU1FwRkFRd1NxQnlvcEN2?oc=5",
+        "timestamp": 1772155957.0
+      },
+      {
+        "title": "FanDuel Promo Code: Bet $5, Get $100 in Bonus Bets if Bet Wins February 2026",
+        "desc": "FanDuel Promo Code: Bet $5, Get $100 in Bonus Bets if Bet Wins February 2026  LegalSportsReport",
+        "source": "LegalSportsReport",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXLWV3OVVqVm8xM3EtTmJLaktlVDBqZDJFU3VfMl9UOW1jVWcyeG9OTFhhNmlEUlR2WHdiOHpvei16OE1iUzFRSGhCYkZwTC1IVFlVNUtkNTdjdVdiVkdEVGYtMWJBNTNyaXFNV3pKdV9Mb29zRFE?oc=5",
+        "timestamp": 1772274976.0
+      },
+      {
+        "title": "NBA Fantasy: DFS picks & advice for March 4",
+        "desc": "NBA Fantasy: DFS picks & advice for March 4  NBA",
+        "source": "NBA",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xOVhFMTFkc1Y5SU0zMTVDZk4zVTU0Zk85QmFYNFVUZGpaWnlBZlRhUVFxWG5RbHo1VTVLQVhFdFlMNThmN3JUdWg0Yk4xNS13WDNsMkg2cmtibGplNG53dEd4Z2RSdDJxMVprY3dxcDBNLWJRNVBZSkdR?oc=5",
+        "timestamp": 1772641848.0
+      },
+      {
+        "title": "NBA DFS: Top DraftKings, FanDuel daily Fantasy basketball picks for Tuesday, March 3, includes Jaylin Williams",
+        "desc": "NBA DFS: Top DraftKings, FanDuel daily Fantasy basketball picks for Tuesday, March 3, includes Jaylin Williams  CBS Sports",
+        "source": "CBS Sports",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX1BYTG0xSUxWY1p2RVFNNVVGUVBqTFlJdzBYY19BU0R3QWNCY0E5eElxVHRfUGRwZnhkM3QzSWdTdzM2cV8yVnlPazNVVWFkZ3dTMWJvc21FYnViUkZ1aFpBYUNNUU5ySFFRQVZRaHl3eUs3REU0djFSb24xbkI2ZU1PTmFRY1JJT3psZE4yM21VbWJfblk3bkxrVTZUTDhQY1Y3N2ZWZFJ5ekxFQTR0Ml9Scw?oc=5",
+        "timestamp": 1772563497.0
+      },
+      {
+        "title": "DraftKings Promo Code for $200 in Bonus Bets",
+        "desc": "DraftKings Promo Code for $200 in Bonus Bets  Action Network",
+        "source": "Action Network",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmVHVTQmxFVk4tVmwyelBHSldiSTBvZGIwbUJPUWF3NVdURFdPYUZFeDJwX3JkbHhkVXZHRTBZcExCaldYNTVTcWpCOTBRVUprV1ludjl6c2hLWW5LY2xwU25fb2xSOW5jM3Q1cHlnVDFpQWk1dlhuR0hB?oc=5",
+        "timestamp": 1772524800.0
+      },
+      {
+        "title": "DraftKings Outlines Expanded Growth Strategy and Unveils Plans to Launch Super App, \u201cDraftKings Sports & Casino\u201d",
+        "desc": "DraftKings Outlines Expanded Growth Strategy and Unveils Plans to Launch Super App, \u201cDraftKings Sports & Casino\u201d  Business Wire",
+        "source": "Business Wire",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbUpib1Q0MF80UEFYck5rSDRNNDhBWTlnWGtHVUFKY3N3ZmFzUFRvQjNobElYNmVDVHhPUmNHVTNNUUpZakdJbjhPS3ZRWkFmWHBQbnF4WXhZdXoyVEthS1UydG1odjQ0TzZsdC00Qk95VVRyczU4b0RVaVFKSmV5LXBvaVBBMDRDVkxfaU51Z3RMTU1LTFFoemxJS0gtWkVrb09MeERhM0FvRzM4RDZVb29RaXJVTXE0cjk3aFJLeGV4VDlqNGIzMG13YVZYMDJkNDNnY3RVRmtVNEFCd2VpRl9jTUxlN3RuRE5oTjlibzdlT3VvenIw?oc=5",
+        "timestamp": 1772452800.0
+      },
+      {
+        "title": "FanDuel, DraftKings take Missouri profits nearly triple their cost for sports wagering campaign",
+        "desc": "FanDuel, DraftKings take Missouri profits nearly triple their cost for sports wagering campaign  Missouri Independent",
+        "source": "Missouri Independent",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYzBSSjJWR2QtcGdqTmd4S1RiRkxfdHpmUkZrOUpVMC1ldGFoVC16RzZkWXh6Tld5bFZsWnhJcFB4OWFaWXQyMk9pY2ctckk5Y25ZZDZRaGJWZ1JMSmFhTDB1N3dGNW1PREoweDdDdWZyYi1wRVhCTElzbmtyV0pNX1hLUEZPOGN5SXJ1THpGR0JjSzJLdzZ3ZUMwZmFFSTlBYmw1cXl0VDJFdjZBekdYRUhKVFl3NzJYNmZ0STRWTUptcFl0NFg1cUdnTTF4X1U?oc=5",
+        "timestamp": 1772256459.0
+      },
+      {
+        "title": "FanDuel parent Flutter reports disappointing fourth-quarter earnings",
+        "desc": "FanDuel parent Flutter reports disappointing fourth-quarter earnings  CNBC",
+        "source": "CNBC",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWVPYlZGTmRFcjkza0toclllc1BrRTRiZUJyeUFSbFRaVDM2SWs1d3hTYUJJV0d5QWVHRkRIeW5uNDVpcGFWalQ3NEdEaXNWaTRYR3N5N3JRTXo4LWZsSE5mVndBeV8yNFFUYjVJcU9Ma3EwS2EzWm5fQTZsdDBNRkFVcklpYXJU0gGOAUFVX3lxTE9Yb2RNVjI3dl9Scnp1aGNKbGl0WHlMWGw3bWFYaFRQVkVVdV84QU1BcTJDRVROUXNoZ2ZuOUgwVTZGcHRuU0JPbzR5aDJsb2VRcmZzakRYV0tEQ2lYY0hFSTcxQXFNZVNYZklyckNDaUl1SElJcWwzZ0lnY2RCU01NOG5MUEc3RmZBRFU4OFE?oc=5",
+        "timestamp": 1772140427.0
+      },
+      {
+        "title": "Top DFS Sites: Best Daily Fantasy Sports Apps 2026",
+        "desc": "Top DFS Sites: Best Daily Fantasy Sports Apps 2026  FantasyLabs",
+        "source": "FantasyLabs",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UN1RKUXVKWFBJUjZzYmZtQzBzblUxQThLVUlicFJhWWxRTVA3U1Z4ZWs0bFRQeW1BWTNVUlNCbm5aQ2N3QnA3NUwtdDNUeGVadVdsZFBQcmIzdFFfT2Y0SA?oc=5",
+        "timestamp": 1772438400.0
+      },
+      {
+        "title": "DraftKings DFS Fantasy Golf Cheat Sheet: 2026 PGA TOUR The Arnold Palmer Invitational Picks",
+        "desc": "DraftKings DFS Fantasy Golf Cheat Sheet: 2026 PGA TOUR The Arnold Palmer Invitational Picks  DraftKings Network",
+        "source": "DraftKings Network",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc0l4c3l0Sjg0OGNKVDd5NGdZa05qMzBtSk8xeGY1TDBoZG14cUd6V3gwS1hVT2p1SHh3Q1JTLUxaWHRIblRFb19vRnVyS1Znb09UNmhzbG45bHRiakY3T19nMUU3NU16OU5hWE83YnlXLUdWbHJ4dWFhMzVOYmFIeEpyTVZJbnRHeXdQMzQxY3Rnd2ptTzFvdkhnOHVsSm1yRWxLVnA3dV9UTlVIQnNVbE9jam1qOUpySGdNRlRDaTdDSUdRQjBHY25jeFJMeUJ5?oc=5",
+        "timestamp": 1772551080.0
+      },
+      {
+        "title": "NBA DFS: Top DraftKings, FanDuel daily Fantasy basketball picks for Friday, Feb. 27 include Marvin Bagley III",
+        "desc": "NBA DFS: Top DraftKings, FanDuel daily Fantasy basketball picks for Friday, Feb. 27 include Marvin Bagley III  CBS Sports",
+        "source": "CBS Sports",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcm5LdjZ3NU1Jd0lOd2xjTzh6Y1YycS1sbjNkRFdUcUhoa19vMkg0c0xQRnFybXNJdEdKUmVtNFd6SzhwMUJSTDJaVVI2U29hdHBXRVNZLTJTXzFrRnJGSXdLdHhheUZ4bzVfZXJtU3ExZmFBenlVOEpMNjhhRGMzTGZUMnRHemw1ZXcwN0NIMG16UDZ2bURxVTBNNTlXVEdTQmxXU2xKRFZlQk9nXzJnVnFEd25mazdHdkFWSA?oc=5",
+        "timestamp": 1772214562.0
+      },
+      {
+        "title": "DraftKings, FanDuel Coming To Arkansas After Unanimous Approval",
+        "desc": "DraftKings, FanDuel Coming To Arkansas After Unanimous Approval  LegalSportsReport",
+        "source": "LegalSportsReport",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGh1NE9xQy1ZVG9WQkw3c3phU0g5cjFDU0JJSFI4bnJqTXc1RlhrejU1aEI1b0Rucy11R2sxZXl6RktNaTZNZTJGUkpzc2pkOU04d3RPM3hpVVptSVJpb3FhWU1wdWVlMG5vUWNLa1JMQ080QUd5SGJOOHVmT3JQb0syZWdSRWw2Q01PUnY3YlFfRnB4MUMtSHo2ZkQ4YV90VTVMelZWaw?oc=5",
+        "timestamp": 1772133500.0
+      },
+      {
+        "title": "FanDuel Group Brings America\u2019s #1 Sportsbook to Arizona in Partnership with Phoenix Suns",
+        "desc": "FanDuel Group Brings America\u2019s #1 Sportsbook to Arizona in Partnership with Phoenix Suns  NBA",
+        "source": "NBA",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUEFkTE5aWFpTb3dneEhkaTFKd3FxaFpjMThsV0dhbnptWHBxRFhWWnBjRTNhMjZPZU5KR3d4VUpaVkM5WWNjOFVtTlA3MTY4Znd1NmticGEwUHBKQVRaQ1M0Y0prLWRBaGpKNDNHWmlURnlUU2V5LUZzaV9Mci1PS3NzeV9TYUVXb1d1cG1NYzRIbW0tbDhWaGs4R3dFeXRmV2c?oc=5",
+        "timestamp": 1772092800.0
+      },
+      {
+        "title": "NBA DFS Picks Breakdown on DraftKings (Tuesday, March 3)",
+        "desc": "NBA DFS Picks Breakdown on DraftKings (Tuesday, March 3)  FantasyLabs",
+        "source": "FantasyLabs",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM29GcmhwLWlmakVRc25OdzRTUER1M2J0UjloUzMxZS1QQ016UVhybmFUQTVmeUFKZEY3a2FNMWFJQ2Q4VVJLZ08zUGd6WThhVHRxc2lXTjBPWEpWOU9ub0ZMT3pwcVcwakJrTllNc1lTWWpINDVBUU1BX0lWVUtzOWd1dTZFb2lKdEF5NllQM1BIZ245QkFzbHVQbVI?oc=5",
+        "timestamp": 1772265600.0
+      },
+      {
+        "title": "DraftKings Missouri promo code is now live: Bet $5 to get $200 in bonus bets now",
+        "desc": "DraftKings Missouri promo code is now live: Bet $5 to get $200 in bonus bets now  CBS Sports",
+        "source": "CBS Sports",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ09ZSnQ0Z1VDVDJoZTdiaWlGaVBxaWNDS29oYTktdmZJazg1Ukh4M1JGdFFEU0VscC1KT1poME9zWUdSTXF4VFg4RVNDQ3BpYnFXSmNTZWQ2N0k0VmY3R1Z1UDFpWFRGZ3V2U085RldMZ1k0ajB3OHhNSTFIQzQ5NnFRMlNkZ1RQM2tHTnFNb0gySTNYYzNySTVrWjVBWnRQT05qUGREM3NFbWREdVBBMGw1R1hPOXBM?oc=5",
+        "timestamp": 1772207263.0
+      },
+      {
+        "title": "PHOENIX SUNS AND FANDUEL INTRODUCE NEW EXCLUSIVE MEMBER LOUNGE FOR SUNS SEASON TICKET MEMBERS",
+        "desc": "PHOENIX SUNS AND FANDUEL INTRODUCE NEW EXCLUSIVE MEMBER LOUNGE FOR SUNS SEASON TICKET MEMBERS  NBA",
+        "source": "NBA",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGh2dVNycWZKVWdNeTd5WG12RnZKYldsa0VDMU5tQ3llUFZ3SlBNMkhfeTRuUjgyLTM0VS12Y1JmdkVQMmpybXA1NXk0eHpMLTd6Z3JNSXRsYlVRMW9IV0pHX0NHNzFoa0pKbDRHMXM0NEZNTGRVbXRYZzNFMVZMTEk4V2NfajY5a0NvOHVOYTlieW5CQkhZbm1YY1BGb1ZBLUhYMFRIeG95cFk?oc=5",
+        "timestamp": 1772092800.0
+      },
+      {
+        "title": "Best DFS apps for 2026: Sleeper, Underdog, top daily fantasy sports sites",
+        "desc": "Best DFS apps for 2026: Sleeper, Underdog, top daily fantasy sports sites  CBS Sports",
+        "source": "CBS Sports",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nNHdaWWpvaDJiX000ZHZBUlBIY3hhSjdwVUt3ZDNVY3pQRUw0dUZJOW1Rb0Q2YmJFWEp1bFBnVjFBaFV1WUdfaUdKNFdfTVpiYnFMR0VkUFFCdHlPc2VtMy14bw?oc=5",
+        "timestamp": 1772475000.0
+      },
+      {
+        "title": "NBA League Pass promo code 2026: DraftKings promo offers nine free months plus $200 bonus bets",
+        "desc": "NBA League Pass promo code 2026: DraftKings promo offers nine free months plus $200 bonus bets  CBS Sports",
+        "source": "CBS Sports",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWXFWamtZLXA4QWZwWXNJeDBzaTk2OUJ1eExYNnBRanMtQXFLUnhPVnBzclRfeU4tU3Q5cXFOWUJST0NTTEVaV0YydmV1d1pQcXUxRlE2dnprQXVaV3RORGFZb2E0aEoydkF2YTFrbVBGaU9sVXlFaTBISXdQc2hoUEY4UFZ0MkRTVFhpTnpGbU1aUVN4d0Z6YkZlZzg4STlPSGdXM2lNWkVMczBWX1BMaDBoY1dkZ1RjQnlVR3p5VXRBRG5XQVVwcjV6UXA?oc=5",
+        "timestamp": 1772208306.0
+      },
+      {
+        "title": "NASCAR DFS: Top 2026 DuraMAX Grand Prix lineup advice, daily Fantasy racing picks for FanDuel, DraftKings",
+        "desc": "NASCAR DFS: Top 2026 DuraMAX Grand Prix lineup advice, daily Fantasy racing picks for FanDuel, DraftKings  CBS Sports",
+        "source": "CBS Sports",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDNLVGhocmtEQi1OOGE2NDh3aGxocnNKUmpUREZ0bmUwQkFmdVRSYzdpUE5XZXU4MDBHVzhPSlg5T0NIcWdFNU1NaFNfOG5sSUg3aU9FM25leC1KSjN1c3J0bWN2V201NEpfb2xfMTVmVl9XNmdKTzRzTjk2anJGWnV2cGhIZE1relhmZUhKRzZlZWxla0R0Q0c2YmZReEZ5WnMteEhQWGdMYWZ3eTBTcGRKcUJKRUVOZ003eHM4QlBuWjU1T1ViMjc1bnJKWEUzR0gxTg?oc=5",
+        "timestamp": 1772390856.0
+      },
+      {
+        "title": "FanDuel Missouri Promo Code: Bet $5, Get $300 In Bonus Bets for FanDuel MO Launch",
+        "desc": "FanDuel Missouri Promo Code: Bet $5, Get $300 In Bonus Bets for FanDuel MO Launch  FOX Sports",
+        "source": "FOX Sports",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JTnhUOGU2cG1od0JtT1Vrd3RTeEZtdGlHM1EyU2lMU1JrMTlJaXBUOURwN2pCRjRnT3R1eWxGanpZbzJmMmtZbXdSZ1lMLUVkdnJSRjUyckQ5VnB2b1pQQzFPM3pPcHhUMWc1dXUzWlRBZ0dlbmxIONIBeEFVX3lxTFBEZjZ3RTM0SldrbzlXQ2dIdjdOelc3bC1pMVo4c3QzbHhHZWJVREVNU21TQ1BFYnBxc18xOG0zeUFlZ3YyQWtZUFNMM2xIc2J3VGViaURrSlZ1SGd0T2xBdUV6V09kSWxFWmhUc1J4TE5oNUpiVjdHYg?oc=5",
+        "timestamp": 1772477280.0
+      }
+    ],
     "lottery": [
       {
         "title": "Texas Lottery results: Mega Millions, Pick 3 winning numbers for March 3, 2026",
@@ -1552,11 +1714,11 @@
         "timestamp": 1772168700.0
       },
       {
-        "title": "MN Lottery Results: Powerball, Lotto America winning numbers for Feb. 28, 2026",
-        "desc": "MN Lottery Results: Powerball, Lotto America winning numbers for Feb. 28, 2026  St. Cloud Times",
+        "title": "MN Lottery Results: Mega Millions, Pick 3 winning numbers for Feb. 27, 2026",
+        "desc": "MN Lottery Results: Mega Millions, Pick 3 winning numbers for Feb. 27, 2026  St. Cloud Times",
         "source": "St. Cloud Times",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0lEczRLUzRrWHpGckNwdUt1bkIydjhVVDZpb0NqTFVVR3BpN3dVLXA2M2pnWXcyeXljclBnb2pRcF85Rm1vYm9uQ2s5Vjk3UXgxS1llbVotbVNjZzExT2NpNnJvcXMzdVZOREFoWVJocDgwUTZyRndZUFJuYmlKTl91dTVwb3l4Qlg0Zi1ydFpuaFdBaEg2MW1fZU42MnRaWWItNWF5QV9BRHd3VUVKakh5SEs0ZXM?oc=5",
-        "timestamp": 1772366340.0
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaW9oeWo0dXE3RWtET0RzRXN0aEYweUlHUHlYTkxVZnBWSkFnUTdxMllDc0RjNjFGRzJVOGJ4SDJHWjVTT0RCRkVqOXFzMVByb3ZNWHlRb0RxaE1rdTZsdVhJcjJ4UFNMTldPVjRvaDcyVlFac3d4WmZLMVJyZ2pwTHo1TFVndUhURlJEdFBtN3BnSTFHVTNWaC1EbGpoY0lXcXNleVV4WVB2Zk5hUkxSWGVWRDA?oc=5",
+        "timestamp": 1772279940.0
       },
       {
         "title": "Evening SC Lottery Results: Feb. 28, 2026",
@@ -1580,6 +1742,13 @@
         "timestamp": 1772339400.0
       },
       {
+        "title": "Akron woman wins lottery jackpot worth $1 million: See where she bought the lucky scratch-off ticket",
+        "desc": "Akron woman wins lottery jackpot worth $1 million: See where she bought the lucky scratch-off ticket  WKYC",
+        "source": "WKYC",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcDhRd2pfVUZLUFFBNjM2QjJ3WG5fb1RzcC1HX21NMTFPRkNjdDlvVEhTellva0l2X25GRUVTdUFtYVk1akp5NTZNVzdwV25zdlpvUWNLVG85YzFRVWJmRWtSWlJZTnJRZVlWX3ZIMGtHbmY5aEdieEdibjVNVEliQk1vb2plbnpjV1ZrNHljTlVkTUg4dkJYTHZXdjdoV1MzbFpJa2RTOFlMMDhaRGZRSzFkSHpVRG51LUM4T2tBNVYzc0Q0U1JfbFE1MUphQWV3cFpMUXAwYktiRk1JMlFKY2daaFdFRE1PLWxZSXRDbFRSYmFfSTlz?oc=5",
+        "timestamp": 1772637660.0
+      },
+      {
         "title": "Maine Lottery results: See winning numbers for Mega Millions, Pick 3 on March 3, 2026",
         "desc": "Maine Lottery results: See winning numbers for Mega Millions, Pick 3 on March 3, 2026  Yahoo News Singapore",
         "source": "Yahoo News Singapore",
@@ -1601,11 +1770,11 @@
         "timestamp": 1772511641.0
       },
       {
-        "title": "MN Lottery Results: Pick 3, NORTH5 winning numbers for March 1, 2026",
-        "desc": "MN Lottery Results: Pick 3, NORTH5 winning numbers for March 1, 2026  St. Cloud Times",
+        "title": "MN Lottery Results: Powerball, Lotto America winning numbers for Feb. 28, 2026",
+        "desc": "MN Lottery Results: Powerball, Lotto America winning numbers for Feb. 28, 2026  St. Cloud Times",
         "source": "St. Cloud Times",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjE5Qy1WOUhDS3Z1bVdVVWZfdGR1S3YtRHBjQktoYkFQZENXRk9wTFZHaUdSajRrQ0o2NmxOZEZ3UG95MGdaNTFPb2d1SURTLW1DZl9jWFNiMGE0eFY3ZHBIVkV6aWQtMVdaM3FvLVRyNEhkQldyQ0tTektEYjZTeTNUTy1HdWJkS3lBMGFrdTRGVlJqYzgyRzBsWkJUOXFKRTk0eFJuR1lTTGxMbDZJ?oc=5",
-        "timestamp": 1772452740.0
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0lEczRLUzRrWHpGckNwdUt1bkIydjhVVDZpb0NqTFVVR3BpN3dVLXA2M2pnWXcyeXljclBnb2pRcF85Rm1vYm9uQ2s5Vjk3UXgxS1llbVotbVNjZzExT2NpNnJvcXMzdVZOREFoWVJocDgwUTZyRndZUFJuYmlKTl91dTVwb3l4Qlg0Zi1ydFpuaFdBaEg2MW1fZU42MnRaWWItNWF5QV9BRHd3VUVKakh5SEs0ZXM?oc=5",
+        "timestamp": 1772366340.0
       },
       {
         "title": "Evening SC Lottery Results: March 1, 2026",
@@ -1622,11 +1791,11 @@
         "timestamp": 1772598600.0
       },
       {
-        "title": "Nebraska Lottery results: See winning numbers for Pick 3, Pick 5 on March 1, 2026",
-        "desc": "Nebraska Lottery results: See winning numbers for Pick 3, Pick 5 on March 1, 2026  Yahoo News Singapore",
-        "source": "Yahoo News Singapore",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaVhwbHlWQUo0RmNvR2lRVEtPVE5lb3YxYktPVjk5eWpWbDNLV29OSy1mOE1zXy0xU1Bqb1BSWUY5Q2MzMVl2SXEtVjRiQmVGcmRKanQ2SzZOdVd6UXhzeHM2cEdMMkVLWFRQbm5hSDlPWlFnUjhsSWNJOVZmSUxFbVZvMA?oc=5",
-        "timestamp": 1772425800.0
+        "title": "Heathcliff for Mar 04, 2026, by Peter Gallagher",
+        "desc": "Heathcliff for Mar 04, 2026, by Peter Gallagher  Creators Syndicate",
+        "source": "Creators Syndicate",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41bDQ5UF9hNW93bF9oTzktTUlqWnRKclhDLTk2cEpNakVSaFhpZXNneTVhclFkUy1FN1hRZ2tVX0hqa01MWkZ5NHZRVS10OEU1V2c?oc=5",
+        "timestamp": 1772652858.0
       },
       {
         "title": "Texas Lottery results: Mega Millions, Pick 3 winning numbers for Feb. 27, 2026",
@@ -1636,11 +1805,11 @@
         "timestamp": 1772255160.0
       },
       {
-        "title": "MN Lottery Results: Powerball, Lotto America winning numbers for March 2, 2026",
-        "desc": "MN Lottery Results: Powerball, Lotto America winning numbers for March 2, 2026  St. Cloud Times",
+        "title": "MN Lottery Results: Pick 3, NORTH5 winning numbers for March 1, 2026",
+        "desc": "MN Lottery Results: Pick 3, NORTH5 winning numbers for March 1, 2026  St. Cloud Times",
         "source": "St. Cloud Times",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWZoVGVkZU0wM3VOWVJFVl9ibElCS0EyOHhzUkhXdDVvMmZGZDhIanVjUGVDSXYwYmZ4MGw1RzZkT2R1R1BQdUJoWmU0NGNqMkk0Y0hFRlRvc3U5Ml9QOGM4ZWlfMWRkcnZrQUMwU3lNN25OQ3lWZE5YSEhsdlBSZjFuVHphb2czbWI4OFcxenZub2VQTU02Vm5lSFB6RHh0QThRWWlFQVdUTlhsTmEw?oc=5",
-        "timestamp": 1772512282.0
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjE5Qy1WOUhDS3Z1bVdVVWZfdGR1S3YtRHBjQktoYkFQZENXRk9wTFZHaUdSajRrQ0o2NmxOZEZ3UG95MGdaNTFPb2d1SURTLW1DZl9jWFNiMGE0eFY3ZHBIVkV6aWQtMVdaM3FvLVRyNEhkQldyQ0tTektEYjZTeTNUTy1HdWJkS3lBMGFrdTRGVlJqYzgyRzBsWkJUOXFKRTk0eFJuR1lTTGxMbDZJ?oc=5",
+        "timestamp": 1772452740.0
       },
       {
         "title": "Texas Lottery results: Powerball, Lotto Texas winning numbers for Feb. 28, 2026",
@@ -1648,6 +1817,13 @@
         "source": "El Paso Times",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHVHQy1mMU5JY3VidmVEUXVSVDFLbnEwRHJsMVppX0lJaS1kU3pjR2E0eWpDWVdKMjdoSzk1cDdTdmtRU19lQjNXc2pQSUtWUWo3a2pOUGpzOE55cVIweXFWYWtsRWtRa2xTYjFySklBdkFBLUY2VVVQTmpEc3YzQzlEN3F1czhkTHlNb3pzWVNkNERoeWZmZUJQNnZfbjA5Z0dvZVg0STlCanZodS0taEhMVEc4ajA?oc=5",
         "timestamp": 1772338764.0
+      },
+      {
+        "title": "MN Lottery Results: Powerball, Lotto America winning numbers for March 2, 2026",
+        "desc": "MN Lottery Results: Powerball, Lotto America winning numbers for March 2, 2026  St. Cloud Times",
+        "source": "St. Cloud Times",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWZoVGVkZU0wM3VOWVJFVl9ibElCS0EyOHhzUkhXdDVvMmZGZDhIanVjUGVDSXYwYmZ4MGw1RzZkT2R1R1BQdUJoWmU0NGNqMkk0Y0hFRlRvc3U5Ml9QOGM4ZWlfMWRkcnZrQUMwU3lNN25OQ3lWZE5YSEhsdlBSZjFuVHphb2czbWI4OFcxenZub2VQTU02Vm5lSFB6RHh0QThRWWlFQVdUTlhsTmEw?oc=5",
+        "timestamp": 1772512282.0
       },
       {
         "title": "MN Lottery Results: Mega Millions, Pick 3 winning numbers for March 3, 2026",
@@ -1662,20 +1838,6 @@
         "source": "USA Today",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUxPa0F2NHdxV3EtOVhMaHZEdjFZTlJXOU9ldWNoVVg0aTNfOVVPbE5tUm50bDZCc0NiTWszc0x5Wk5jQktXQlo2NmV2eTV0cDZ6VWpYelFwWnpmbE44R0lKVVB3azF2dGhZR3B3UEFIVU5pQ3U4LWVkLXV1TlJqREFObnNTZXpkd0tTMDI5d0V2SGVDQ0M1SmR6bUhXcVU1cVJqTjhad1dfcFZRdWc5Ui13?oc=5",
         "timestamp": 1772587800.0
-      },
-      {
-        "title": "West Virginia Lottery results: See winning numbers for Powerball, Lotto America on Feb. 28, 2026",
-        "desc": "West Virginia Lottery results: See winning numbers for Powerball, Lotto America on Feb. 28, 2026  USA Today",
-        "source": "USA Today",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFJIMFBkSHZqN3RPVWtWQTY0YVFrY05jdWxwM2RtQmhoemZINlBMWW9Oc0hmMTV0QWVOeWFiSmtHeWhhZjlON0Z3aVJkRWZhMDBDNV9HSjRmLWRrLTVVQTRfLVBHamJST29BYjZKdFB6Nm1HcEhGVUNHSzhPMkExb192c1VmMGZyMGQtRWc5U3duTUNOMlBndDVkQWdZUFZQa3VBSTRkWkNwMmszd3NVNzlEbmk?oc=5",
-        "timestamp": 1772339400.0
-      },
-      {
-        "title": "Nebraska Lottery results: See winning numbers for Mega Millions, Pick 3 on Feb. 27, 2026",
-        "desc": "Nebraska Lottery results: See winning numbers for Mega Millions, Pick 3 on Feb. 27, 2026  Yahoo",
-        "source": "Yahoo",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFNBQVUzSUFLZGFTQzhOdVllS2Z6bFo4cjJOaUl0UDhoblF5VFk1VW1GVERFWGVsNXFMSHFYZ0tzQ3dQYm5rZXVNcWRiajNPa0M4dFQ0aFZpTTRsZEVjYnBGUlFIYTRlbDhobXIwV2J2MWZIYnhoN1Jqei10c3dpTVBWYXFVVUU0MEZsamVuQkc?oc=5",
-        "timestamp": 1772253000.0
       }
     ],
     "skill": [],
@@ -1688,11 +1850,11 @@
         "timestamp": 1772092800.0
       },
       {
-        "title": "Crypto Betting Safety Guide for Germany 2026",
-        "desc": "Crypto Betting Safety Guide for Germany 2026  Bitget",
+        "title": "Thunderpick Crypto Betting Germany 2026: Safe Deposits & Low Fees",
+        "desc": "Thunderpick Crypto Betting Germany 2026: Safe Deposits & Low Fees  Bitget",
         "source": "Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EMGJMckxscThleE1GaHA5Z0UxaWJ3Rmhra3l3U1VHdmxITHVfOXBJWTVBamtxeUo5X0V3MjhfRWQzdjFKZ0hZQ1lucm9pSnhCbVZBckZPRTdmbGNVekHSAV5BVV95cUxORDBiTHJMbHE4ZXhNRmhwOWdFMWlid0Zoa2t5d1NVR3ZsSEx1XzlwSVk1QWprcXlKOV9FdzI4X0VkM3YxSmdIWUNZbnJvaUp4Qm1WQXJGT0U3ZmxjVXpB?oc=5",
-        "timestamp": 1772534986.0
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2pGaE1mNFdTT1c0QldzSUFtcHZHb19hYnpFbzNmYTVIak1YOWx1eFZuSzZNM2FnUnl5ZEFBekZqWEx6d1ZCTFU0UzREOW9FU0ZfZzh1bWRBVXRfU1k3MllaWGU3WVAtbzcyampub1BfeUkwd2hoYmpOWTUwb3d3eTRYcDZxaVBYWDJWSGRFd0lwX2hFTTJJeEJBcHpqXzUtVXpKSW5TWGtsTTRTdHFRcnRSVEdKOWxDUUZUb1ZHZ09PRlB0LUg5MUJB0gHKAUFVX3lxTFBvakZoTWY0V1NPVzRCV3NJQW1wdkdvX2FiekVvM2ZhNUhqTVg5bHV4Vm5LNk0zYWdSeXlkQUF6RmpYTHp3VkJMVTRTNEQ5b0VTRl9nOHVtZEFVdF9TWTcyWVpYZTdZUC1vNzJqam5vUF95STB3aGhiak5ZNTBvd3d5NFhwNnFpUFhYMlZIZEV3SXBfaEVNMkl4QkFwempfNS1VekpJblNYa2xNNFN0cVFydFJUR0o5bENRRlRvVkdnT09GUHQtSDkxQkE?oc=5",
+        "timestamp": 1772535001.0
       },
       {
         "title": "No ID Verification Withdrawal Casinos for UK Beer-Loving Players in 2026",
@@ -1709,11 +1871,18 @@
         "timestamp": 1772179200.0
       },
       {
-        "title": "Thunderpick Crypto Betting Germany 2026: Safe Deposits & Low Fees",
-        "desc": "Thunderpick Crypto Betting Germany 2026: Safe Deposits & Low Fees  Bitget",
-        "source": "Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2pGaE1mNFdTT1c0QldzSUFtcHZHb19hYnpFbzNmYTVIak1YOWx1eFZuSzZNM2FnUnl5ZEFBekZqWEx6d1ZCTFU0UzREOW9FU0ZfZzh1bWRBVXRfU1k3MllaWGU3WVAtbzcyampub1BfeUkwd2hoYmpOWTUwb3d3eTRYcDZxaVBYWDJWSGRFd0lwX2hFTTJJeEJBcHpqXzUtVXpKSW5TWGtsTTRTdHFRcnRSVEdKOWxDUUZUb1ZHZ09PRlB0LUg5MUJB0gHKAUFVX3lxTFBvakZoTWY0V1NPVzRCV3NJQW1wdkdvX2FiekVvM2ZhNUhqTVg5bHV4Vm5LNk0zYWdSeXlkQUF6RmpYTHp3VkJMVTRTNEQ5b0VTRl9nOHVtZEFVdF9TWTcyWVpYZTdZUC1vNzJqam5vUF95STB3aGhiak5ZNTBvd3d5NFhwNnFpUFhYMlZIZEV3SXBfaEVNMkl4QkFwempfNS1VekpJblNYa2xNNFN0cVFydFJUR0o5bENRRlRvVkdnT09GUHQtSDkxQkE?oc=5",
-        "timestamp": 1772535001.0
+        "title": "2026\u2019s Best Bitcoin Betting Sites: 12 Crypto Sportsbooks",
+        "desc": "2026\u2019s Best Bitcoin Betting Sites: 12 Crypto Sportsbooks  Pokertube.com",
+        "source": "Pokertube.com",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96ZUhnX1ZacVl2Vkh6NDQ1Z2FhMl91ZkJOOWdBcTlMN1ZiaXdfU0k1ZzVRMk1pdmhkeE5PdjhWN1JiYkhqMEJiV3VOSmVkbFNIMFJjdVQ2bmcxM0tmZk5FUzR4UFo?oc=5",
+        "timestamp": 1772188800.0
+      },
+      {
+        "title": "Bitcoin Tennis Betting: Serve Up Crypto Betting in March 2026",
+        "desc": "Bitcoin Tennis Betting: Serve Up Crypto Betting in March 2026  Bitcoin.com",
+        "source": "Bitcoin.com",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpT0ZzclViMUhfc2c4ODU0X1lxc1hfVDBnMWJBcXlMbGlIWDFoSlJ1VGN2MzN3R09vSlROQVZZVEczdm1GY09BUzBMQTBidUFNNTE0ZUFmTF9zM042?oc=5",
+        "timestamp": 1772438400.0
       },
       {
         "title": "UK Gambling Commission Weighs Crypto Payments as FCA Nears Regulatory Framework",
@@ -1744,13 +1913,6 @@
         "timestamp": 1772621372.0
       },
       {
-        "title": "Best Crypto Betting Exchanges for 2026",
-        "desc": "Best Crypto Betting Exchanges for 2026  Bitcoin.com",
-        "source": "Bitcoin.com",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15RVpEY0NsX093aklRdFRYSU10aGZkMDdWUzUtLUUxRkpvM2ZMVnlJdTNtZXV5U2d0SWpMdFMxQWFLN19VNG42T3ZoMVk3SExlb2JOMDY5V0lDME9VR2FyMXVQM29TQl9Pa2lR?oc=5",
-        "timestamp": 1772092800.0
-      },
-      {
         "title": "Liverpool monitor rising Bundesliga star in case Michael Olise bid fails as Reds continue search for Mohamed Salah successor",
         "desc": "Liverpool monitor rising Bundesliga star in case Michael Olise bid fails as Reds continue search for Mohamed Salah successor  Goal.com",
         "source": "Goal.com",
@@ -1758,11 +1920,11 @@
         "timestamp": 1772491273.0
       },
       {
-        "title": "Ryan Gravenberch needed to 'step up his game' as Julian Nagelsmann explains how weakness in 'last 20 minutes' prevented Liverpool star from succeeding at Bayern Munich",
-        "desc": "Ryan Gravenberch needed to 'step up his game' as Julian Nagelsmann explains how weakness in 'last 20 minutes' prevented Liverpool star from succeeding at Bayern Munich  Goal.com",
-        "source": "Goal.com",
-        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQVk1VGlrOVJ0akVYNXJRTXgxSjhSRDJhX0pRYnpERlVCUml4aGRoRktPalFYMmNlTWVkNm1yM1dqQmd4ckI1OTNpSjcxa0hGQVdkTTJWdFRkaU9FSWpMRnNBUTJGYWc5OEVLN1ZsUzZzX2wwZnpkSTlaRlQ0QWctaHIxdk9jSFZoYWRTWGZIQWl0QzZWQnFWWlFTSlFhS2Z1VTdaNnA3OUpocHQxTGt6aG9ydFVlQU8wS3kxcXBnZUNhZVhJRTAwUmRrYXZENDh2Y2Jwc215X0hnU0JxaW9Iek9tdkZjaVpTb01ZOGRnaHYxM2swbEVtdllkRTliN2x0cGVlRU9SXzN0N0ZCN3h1azVQdi10Qmp1QlRHSg?oc=5",
-        "timestamp": 1772487760.0
+        "title": "Best Crypto Betting Exchanges for 2026",
+        "desc": "Best Crypto Betting Exchanges for 2026  Bitcoin.com",
+        "source": "Bitcoin.com",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15RVpEY0NsX093aklRdFRYSU10aGZkMDdWUzUtLUUxRkpvM2ZMVnlJdTNtZXV5U2d0SWpMdFMxQWFLN19VNG42T3ZoMVk3SExlb2JOMDY5V0lDME9VR2FyMXVQM29TQl9Pa2lR?oc=5",
+        "timestamp": 1772092800.0
       },
       {
         "title": "Jurgen Klopp facing Red Bull axe? Future questions asked of ex-Liverpool boss amid Real Madrid links",
@@ -1770,6 +1932,13 @@
         "source": "Goal.com",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSVNQSENQR0owZlVyLUZLZkxkODhjTi0zUEFDQXFtanRkMjQ5V2EwNlBuTmFhNlMyYXY3ajJWTW9BeXFYeENfMXhMd0p5RFpIR0JZcXB6Qld5SnktYTVYLXZKaWREMXAwdzA3MmFKb2NydFZLWjVnaWgzZGVvVWxacTJncUdjYUtzVnVFZHhvNzZIWDNCbFpZVkFQckdIQ1hjLVhZWklPbm5aQkpJT1JLV3hTMG9xM2Z6LXdlelRkdlByeGgtU21Pb0x1TQ?oc=5",
         "timestamp": 1772111548.0
+      },
+      {
+        "title": "Ryan Gravenberch needed to 'step up his game' as Julian Nagelsmann explains how weakness in 'last 20 minutes' prevented Liverpool star from succeeding at Bayern Munich",
+        "desc": "Ryan Gravenberch needed to 'step up his game' as Julian Nagelsmann explains how weakness in 'last 20 minutes' prevented Liverpool star from succeeding at Bayern Munich  Goal.com",
+        "source": "Goal.com",
+        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNQVk1VGlrOVJ0akVYNXJRTXgxSjhSRDJhX0pRYnpERlVCUml4aGRoRktPalFYMmNlTWVkNm1yM1dqQmd4ckI1OTNpSjcxa0hGQVdkTTJWdFRkaU9FSWpMRnNBUTJGYWc5OEVLN1ZsUzZzX2wwZnpkSTlaRlQ0QWctaHIxdk9jSFZoYWRTWGZIQWl0QzZWQnFWWlFTSlFhS2Z1VTdaNnA3OUpocHQxTGt6aG9ydFVlQU8wS3kxcXBnZUNhZVhJRTAwUmRrYXZENDh2Y2Jwc215X0hnU0JxaW9Iek9tdkZjaVpTb01ZOGRnaHYxM2swbEVtdllkRTliN2x0cGVlRU9SXzN0N0ZCN3h1azVQdi10Qmp1QlRHSg?oc=5",
+        "timestamp": 1772487760.0
       },
       {
         "title": "Tottenham stars 'think they're too good to get relegated', claims ex-Arsenal striker as he insists Igor Tudor's squad aren't fit for survival scrap",
@@ -1784,13 +1953,6 @@
         "source": "Goal.com",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1F3bjNYTE9VTzNUMHJvd1BEN1I4R1NLV3FuZE5ZTkh2cFhRNldKZllxZ2haOTRxTl9tZURreE5XSnJqbjhPZndxS2hoNnF0bWZ5Q3dKc2JmUWlHY19razVYcnh6Ri1GbkVnaDhGLVZPLXM4cUxUSzg4T25fY2ZXSlJ2OTRLMGdsUGc3T3ZXODRYaWpUQlpDS2RseFVlTzZNU0Q4YURfZzRBYnZ5RzR1clRySW5fN2JhQW1nSzRB?oc=5",
         "timestamp": 1772111618.0
-      },
-      {
-        "title": "Liverpool could perform sensational transfer U-turn & re-sign defender they let go last summer - and it'll cost them significantly more than sale price",
-        "desc": "Liverpool could perform sensational transfer U-turn & re-sign defender they let go last summer - and it'll cost them significantly more than sale price  Goal.com",
-        "source": "Goal.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFdVczdRMVlEV2NZVVhSTy16YnNNUGhDU2l1SllhUWFVZjRfNC1od0JrMS12RUtoZ0hJTjlXOHVaa1VLN1VGZE03V3hqQ1FCbXNyOUh2endVdlhoel84UDI1Mi1BUzVJY3JTNFByWTlWNlZxa2w0a2Q1S2pZUmZVN2pCbHVCMElSanJFWnA2ZVh6UTF0TDFGaEYxcXp2UkF3X2xUSFhOQjhMQ0k?oc=5",
-        "timestamp": 1772463277.0
       },
       {
         "title": "Real Madrid confirm ban for fan who was caught on TV making Nazi salute during Benfica clash",
